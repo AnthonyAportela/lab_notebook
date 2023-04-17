@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "27f4e5f990444829",
+        "id": "5d3c156b3f7d2ee9",
         "type": "tabs",
         "children": [
           {
-            "id": "d4d259293fcc79a6",
+            "id": "018516fba5788f2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B-parking/Mon_Apr_10_2023.md",
+                "file": "B-parking/Mon_Apr_17_2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B-parking/Mon_Apr_10_2023.md",
+                "file": "B-parking/Mon_Apr_17_2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "B-parking/Mon_Apr_10_2023.md",
+                "file": "B-parking/Mon_Apr_17_2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "B-parking/Mon_Apr_10_2023.md"
+                "file": "B-parking/Mon_Apr_17_2023.md"
               }
             }
           },
@@ -156,10 +156,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d4d259293fcc79a6",
+  "active": "018516fba5788f2d",
   "lastOpenFiles": [
     "B-parking/Tue_Apr_11_2023.md",
+    "B-parking/Mon_Apr_17_2023.md",
+    "B-parking/img/mon_apr_17_2023_plot2.png",
+    "B-parking/img/mon_apr_17_2023_plot2.png",
+    "B-parking/img/mon_apr_17_2023_plot1.png",
+    "B-parking/img/mon_apr_17_2023.md",
+    "B-parking/img/oct2022plots.png",
     "B-parking/Fri_Apr_14_2023.md",
+    "B-parking/Mon_Apr_10_2023.md",
     "knowledge_base/LLPs.md",
     "knowledge_base/RNNs.md",
     "knowledge_base/keras.md",
@@ -180,10 +187,6 @@
     "FPGA_deployment/Russell_workflow.md",
     "FPGA_deployment/Fri_Apr_7_2023.md",
     "FPGA_deployment/Mon_Apr_10_2023.md",
-    "FPGA_deployment/Tues_Apr_11_2023.md",
-    "B-parking/Wed_Apr_5_2023.md",
-    "B-parking/Fri_Apr_7_2023.md",
-    "B-parking/Mon_Apr_10_2023.md",
     "FPGA_deployment/img",
     "knowledge_base/img",
     "FPGA_deployment/img",
@@ -194,10 +197,6 @@
     "img/Pasted image 20230410164341.png",
     "img/Pasted image 20230410164406.png",
     "B-parking/img/mon_apr_10_2023_plot2.png",
-    "B-parking/img/fri_apr_7_2023_plot3.png",
-    "B-parking/img/fri_apr_7_2023_plot1.png",
-    "FPGA_deployment/img/russel_workflow.jpeg",
-    "B-parking/img/oldslides_3.png",
     "B-parking/B-parking,/ Mon/ Apr/ 10,",
     "B-parking/B-parking,/ Mon/ Apr",
     "B-parking/B-parking,/ Mon",
