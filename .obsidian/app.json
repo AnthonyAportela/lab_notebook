@@ -8,5 +8,6 @@
   "newFileLocation": "root",
   "newLinkFormat": "absolute",
   "useMarkdownLinks": true,
-  "showFrontmatter": false
+  "showFrontmatter": false,
+  "showUnsupportedFiles": true
 }

@@ -1,4 +1,4 @@
-[Prev](/FPGA_deployment/Mon_Apr_10_2023)
+[Prev](/FPGA_deployment/Mon_Apr_10_2023.md)
 
 Ok, so I figured out the problem with cloning from [this git](https://gitlab.cern.ch/GTT/APx/-/tree/pass_through_360). It turns out for whatever reason it doesn't like being cloned via ssh, but it's ok with being cloned via https. Maybe this is because I did something wrong with the ssh. Who know or cares because I got it running. 
 

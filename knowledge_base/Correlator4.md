@@ -1,4 +1,4 @@
-An FPGA at Fermilab which I can log into using similar credentials to [LPC](/knowledge_base/LPC.md base/LPC>).
+An FPGA at Fermilab which I can log into using similar credentials to [LPC](/knowledge_base/LPC.md).
 
 I first need to add the following to my `.ssh/config` on my local machine:
 ```

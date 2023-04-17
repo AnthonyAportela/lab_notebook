@@ -1,16 +1,16 @@
 ![[hls4ml_workflow.png]]
 
 [From the docs](https://fastmachinelearning.org/hls4ml/concepts.html)
->The goal of `hls4ml` is to provide an efficient and fast translation of machine learning models from open-source packages (like [Keras](/knowledge_base/keras.md) and [PyTorch](/knowledge_base/pytorch)) for training machine learning algorithms to high level synthesis ([HLS](/knowledge_base/HLS.md)) code that can then be transpiled to run on an [FPGA](/knowledge_base/FPGAs.md). The resulting HLS project can be then used to produce an IP which can be plugged into more complex designs or be used to create a kernel for CPU co-processing. The user has freedom to define many of the parameters of their algorithm to best suit their needs.
+>The goal of `hls4ml` is to provide an efficient and fast translation of machine learning models from open-source packages (like [Keras](/knowledge_base/keras.md) and [PyTorch](/knowledge_base/pytorch.md)) for training machine learning algorithms to high level synthesis ([HLS](/knowledge_base/HLS.md)) code that can then be transpiled to run on an [FPGA](/knowledge_base/FPGAs.md). The resulting HLS project can be then used to produce an IP which can be plugged into more complex designs or be used to create a kernel for CPU co-processing. The user has freedom to define many of the parameters of their algorithm to best suit their needs.
 
 # [Tutorial](https://github.com/fastmachinelearning/hls4ml-tutorial)
 
-The following should either be done in [Scully_Mulder](/knowledge_base/Scully_Mulder) or on [Correlator4](/knowledge_base/Correlator4), since they have [FPGAs](/knowledge_base/FPGA) on them.
+The following should either be done in [Scully_Mulder](/knowledge_base/Scully_Mulder.md) or on [Correlator4](/knowledge_base/Correlator4.md), since they have [FPGAs](/knowledge_base/FPGA.md) on them.
 I should clone the [`hsl4ml-tutorial`](https://github.com/fastmachinelearning/hls4ml-tutorial).
 ```bash
 git clone https://github.com/fastmachinelearning/hls4ml-tutorial
 ```
-If I haven't already, I should follow these [instructions](/knowledge_base/mamba) to get mamba installed in correlator4. If you don't know what that is, it's just like `conda` but better.
+If I haven't already, I should follow these [instructions](/knowledge_base/mamba.md) to get mamba installed in correlator4. If you don't know what that is, it's just like `conda` but better.
 
 Then I need do cd into the directory, create, then activate the provided environment.
 ```bash
