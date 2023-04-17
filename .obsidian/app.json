@@ -1,0 +1,12 @@
+{
+  "alwaysUpdateLinks": true,
+  "spellcheck": true,
+  "promptDelete": false,
+  "readableLineLength": true,
+  "showLineNumber": true,
+  "defaultViewMode": "source",
+  "newFileLocation": "root",
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true,
+  "showFrontmatter": false
+}

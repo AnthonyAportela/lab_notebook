@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "2b37da6f0eaa7b33",
+    "type": "split",
+    "children": [
+      {
+        "id": "827b46e0757fd549",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "857f75d6fe16c319",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5d9e588e1364e0ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5e510dfc41bc9cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c97abf1fb86c526",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "bd0f3bffcec9971f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "edd2d7a62c788e88",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 341.5
+  },
+  "right": {
+    "id": "7f0896c98a1afd69",
+    "type": "split",
+    "children": [
+      {
+        "id": "99a881f790111da8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bdd062c721e4eba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "B-parking/Fri_Apr_14_2023.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6fa0b18c799a4b95",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "B-parking/Fri_Apr_14_2023.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "679ec7b289cfad8d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "79b192ab0e755caf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "B-parking/Fri_Apr_14_2023.md"
+              }
+            }
+          },
+          {
+            "id": "d2abe7f0296de49a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "6c97abf1fb86c526",
+  "lastOpenFiles": [
+    "B-parking/Wed_Apr_5_2023.md",
+    "B-parking/Fri_Apr_7_2023.md",
+    "B-parking/Mon_Apr_10_2023.md",
+    "B-parking/Tue_Apr_11_2023.md",
+    "B-parking/Fri_Apr_14_2023.md",
+    "FPGA_deployment/Wed_Apr_5_2023.md",
+    "FPGA_deployment/Fri_Apr_7_2023.md",
+    "FPGA_deployment/Mon_Apr_10_2023.md",
+    "FPGA_deployment/Tues_Apr_11_2023.md",
+    "FPGA_deployment/Mon_Apr_10_.md",
+    "FPGA_deployment/Russell_workflow.md",
+    "B-parking/Fri_Apr_7_2023>.md",
+    "B-parking/B-parking,/ Mon/ Apr/ 10,/ 2023.md",
+    "B-parking/B-parking,/ Mon/ Apr/ 10,",
+    "B-parking/B-parking,/ Mon/ Apr",
+    "B-parking/B-parking,/ Mon",
+    "B-parking/B-parking,",
+    "B-parking/B-parking, Mon Apr 10, 2023 1.md",
+    "img/B-parking, Mon Apr 10, 2023.md",
+    "img/<B-parking,.md",
+    "img/jan2023plots.png",
+    "img/oct2022plots.png",
+    "img/Pasted image 20230405165604.png",
+    "img/Pasted image 20230405165551.png",
+    "img/Pasted image 20230405165527.png",
+    "img/6971833B-3BDE-4CE8-B96C-131BFA3D71C1.png",
+    "img/F8396BF7-78C0-48BC-918B-421ED4ACF3EA.png",
+    "img/30D4883B-0963-4CB1-A63C-907A35FB1D44.png",
+    "img/Pasted image 20230405165619.png",
+    "img/Pasted image 20230407132959.png",
+    "^.md",
+    "2023-01-01.md",
+    "knowledge base/APx passthrough tutorial.md",
+    "Adding ssh key for secute access to gitlab.md",
+    "knowledge base/Adding ssh key for secure access to gitlab.md",
+    "().md",
+    "Adding.md",
+    "knowledge base/hls4ml.md",
+    "linewrap.css",
+    "FPGA.md",
+    "B-parking/Untitled",
+    "knowedge base",
+    "Scully",
+    "knowledge base",
+    "FPGA_deployment"
+  ]
+}

@@ -1,0 +1,1 @@
+(Long Lived Particle), a particle that has a nonnegligable decay length. Examples are muons.
