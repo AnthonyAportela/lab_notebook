@@ -11,8 +11,12 @@
             "id": "857f75d6fe16c319",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "B-parking/Fri_Apr_7_2023.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B-parking/Fri_Apr_14_2023.md",
+                "file": "B-parking/Fri_Apr_7_2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "B-parking/Fri_Apr_14_2023.md",
+                "file": "B-parking/Fri_Apr_7_2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "B-parking/Fri_Apr_14_2023.md"
+                "file": "B-parking/Fri_Apr_7_2023.md"
               }
             }
           },
@@ -152,19 +156,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6c97abf1fb86c526",
+  "active": "857f75d6fe16c319",
   "lastOpenFiles": [
     "B-parking/Wed_Apr_5_2023.md",
+    "FPGA_deployment/Tues_Apr_11_2023.md",
+    "FPGA_deployment/Russell_workflow.md",
+    "FPGA_deployment/Wed_Apr_5_2023.md",
+    "FPGA_deployment/Mon_Apr_10_2023.md",
     "B-parking/Fri_Apr_7_2023.md",
     "B-parking/Mon_Apr_10_2023.md",
     "B-parking/Tue_Apr_11_2023.md",
     "B-parking/Fri_Apr_14_2023.md",
-    "FPGA_deployment/Wed_Apr_5_2023.md",
     "FPGA_deployment/Fri_Apr_7_2023.md",
-    "FPGA_deployment/Mon_Apr_10_2023.md",
-    "FPGA_deployment/Tues_Apr_11_2023.md",
     "FPGA_deployment/Mon_Apr_10_.md",
-    "FPGA_deployment/Russell_workflow.md",
     "B-parking/Fri_Apr_7_2023>.md",
     "B-parking/B-parking,/ Mon/ Apr/ 10,/ 2023.md",
     "B-parking/B-parking,/ Mon/ Apr/ 10,",

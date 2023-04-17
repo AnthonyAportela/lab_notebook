@@ -6,7 +6,7 @@
   "showLineNumber": true,
   "defaultViewMode": "source",
   "newFileLocation": "root",
-  "newLinkFormat": "absolute",
+  "newLinkFormat": "relative",
   "useMarkdownLinks": true,
   "showFrontmatter": false
 }
