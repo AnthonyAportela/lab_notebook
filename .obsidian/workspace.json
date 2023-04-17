@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B-parking/Tue_Apr_11_2023.md",
+                "file": "B-parking/Mon_Apr_10_2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B-parking/Tue_Apr_11_2023.md",
+                "file": "B-parking/Mon_Apr_10_2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "B-parking/Tue_Apr_11_2023.md",
+                "file": "B-parking/Mon_Apr_10_2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "B-parking/Tue_Apr_11_2023.md"
+                "file": "B-parking/Mon_Apr_10_2023.md"
               }
             }
           },
@@ -158,6 +158,7 @@
   },
   "active": "d4d259293fcc79a6",
   "lastOpenFiles": [
+    "B-parking/Tue_Apr_11_2023.md",
     "B-parking/Fri_Apr_14_2023.md",
     "knowledge_base/LLPs.md",
     "knowledge_base/RNNs.md",
@@ -183,7 +184,6 @@
     "B-parking/Wed_Apr_5_2023.md",
     "B-parking/Fri_Apr_7_2023.md",
     "B-parking/Mon_Apr_10_2023.md",
-    "B-parking/Tue_Apr_11_2023.md",
     "FPGA_deployment/img",
     "knowledge_base/img",
     "FPGA_deployment/img",
