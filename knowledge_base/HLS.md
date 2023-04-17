@@ -6,6 +6,6 @@ High Level Synthesis
 
 For our purposes, it is the process by which human readable code is turned into an appropriate transistor logic, like converting a C program into a set of logic gates that performs the same task.
 
-There are usually a bunch of parameters associated with this process. We can chose to make a set of gate's more serial or parallel at the cost of benefit of more or less resources. Messing around with these parameters determines how fast the algorithm is on the board as well if it will even fit on the [FPGA](FPGAs.md).
+There are usually a bunch of parameters associated with this process. We can chose to make a set of gate's more serial or parallel at the cost of benefit of more or less resources. Messing around with these parameters determines how fast the algorithm is on the board as well if it will even fit on the [FPGA](/knowledge_base/FPGAs.md).
 
 At CMS we need the algos to fit on a board, and to run fast enough to make decisions at ~40MHz. An important consideration is also power consumption.

@@ -1,4 +1,4 @@
-[Prev](B-parking/Wed_Apr_5_2023)
+[Prev](/B-parking/Wed_Apr_5_2023)
 
 Today I'm focusing on looking at the yields instead of the branching ratio limits.
 

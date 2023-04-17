@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B-parking/Fri_Apr_7_2023.md",
+                "file": "knowledge_base/LLPs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B-parking/Fri_Apr_7_2023.md",
+                "file": "knowledge_base/LLPs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "B-parking/Fri_Apr_7_2023.md",
+                "file": "knowledge_base/LLPs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "B-parking/Fri_Apr_7_2023.md"
+                "file": "knowledge_base/LLPs.md"
               }
             }
           },
@@ -158,26 +158,36 @@
   },
   "active": "857f75d6fe16c319",
   "lastOpenFiles": [
-    "B-parking/Wed_Apr_5_2023.md",
-    "FPGA_deployment/Tues_Apr_11_2023.md",
-    "FPGA_deployment/Russell_workflow.md",
+    "knowledge_base/RNNs.md",
+    "knowledge_base/keras.md",
+    "knowledge_base/qkeras.md",
+    "knowledge_base/FPGAs.md",
+    "knowledge_base/ASICs.md",
+    "knowledge_base/hls4ml.md",
+    "knowledge_base/pytorch.md",
+    "knowledge_base/HLS.md",
+    "knowledge_base/kerberos.md",
+    "knowledge_base/mamba.md",
+    "knowledge_base/Correlator4.md",
+    "knowledge_base/Scully_Mulder.md",
+    "knowledge_base/Adding_ssh_key_for_secure_access_to_gitlab.md",
+    "knowledge_base/LPC.md",
+    "knowledge_base/APx.md",
     "FPGA_deployment/Wed_Apr_5_2023.md",
+    "FPGA_deployment/Russell_workflow.md",
+    "FPGA_deployment/Fri_Apr_7_2023.md",
     "FPGA_deployment/Mon_Apr_10_2023.md",
+    "knowledge_base/APx passthrough tutorial.md",
+    "FPGA_deployment/Tues_Apr_11_2023.md",
+    "B-parking/Wed_Apr_5_2023.md",
     "B-parking/Fri_Apr_7_2023.md",
     "B-parking/Mon_Apr_10_2023.md",
-    "B-parking/Tue_Apr_11_2023.md",
     "B-parking/Fri_Apr_14_2023.md",
-    "FPGA_deployment/Fri_Apr_7_2023.md",
-    "FPGA_deployment/Mon_Apr_10_.md",
-    "B-parking/Fri_Apr_7_2023>.md",
-    "B-parking/B-parking,/ Mon/ Apr/ 10,/ 2023.md",
+    "B-parking/Tue_Apr_11_2023.md",
     "B-parking/B-parking,/ Mon/ Apr/ 10,",
     "B-parking/B-parking,/ Mon/ Apr",
     "B-parking/B-parking,/ Mon",
     "B-parking/B-parking,",
-    "B-parking/B-parking, Mon Apr 10, 2023 1.md",
-    "img/B-parking, Mon Apr 10, 2023.md",
-    "img/<B-parking,.md",
     "img/jan2023plots.png",
     "img/oct2022plots.png",
     "img/Pasted image 20230405165604.png",
@@ -188,20 +198,11 @@
     "img/30D4883B-0963-4CB1-A63C-907A35FB1D44.png",
     "img/Pasted image 20230405165619.png",
     "img/Pasted image 20230407132959.png",
-    "^.md",
-    "2023-01-01.md",
-    "knowledge base/APx passthrough tutorial.md",
-    "Adding ssh key for secute access to gitlab.md",
-    "knowledge base/Adding ssh key for secure access to gitlab.md",
-    "().md",
-    "Adding.md",
-    "knowledge base/hls4ml.md",
     "linewrap.css",
-    "FPGA.md",
     "B-parking/Untitled",
     "knowedge base",
     "Scully",
-    "knowledge base",
+    "knowledge_base",
     "FPGA_deployment"
   ]
 }
