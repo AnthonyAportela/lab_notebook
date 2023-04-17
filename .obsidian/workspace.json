@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge_base/LLPs.md",
+                "file": "FPGA_deployment/Fri_Apr_7_2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge_base/LLPs.md",
+                "file": "FPGA_deployment/Fri_Apr_7_2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge_base/LLPs.md",
+                "file": "FPGA_deployment/Fri_Apr_7_2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge_base/LLPs.md"
+                "file": "FPGA_deployment/Fri_Apr_7_2023.md"
               }
             }
           },
@@ -158,6 +158,27 @@
   },
   "active": "d4d259293fcc79a6",
   "lastOpenFiles": [
+    "FPGA_deployment/img",
+    "knowledge_base/img",
+    "FPGA_deployment/img",
+    "B-parking/img",
+    "B-parking/Wed_Apr_5_2023.md",
+    "B-parking/Fri_Apr_7_2023.md",
+    "B-parking/Mon_Apr_10_2023.md",
+    "B-parking/Tue_Apr_11_2023.md",
+    "B-parking/Fri_Apr_14_2023.md",
+    "img/Pasted image 20230410150204.png",
+    "img/Pasted image 20230410150145.png",
+    "img/F8396BF7-78C0-48BC-918B-421ED4ACF3EA.png",
+    "img/Pasted image 20230410164341.png",
+    "img/Pasted image 20230410164406.png",
+    "B-parking/img/mon_apr_10_2023_plot2.png",
+    "B-parking/img/fri_apr_7_2023_plot3.png",
+    "B-parking/img/fri_apr_7_2023_plot1.png",
+    "FPGA_deployment/Russell_workflow.md",
+    "FPGA_deployment/img/russel_workflow.jpeg",
+    "B-parking/img/oldslides_3.png",
+    "knowledge_base/LLPs.md",
     "knowledge_base/RNNs.md",
     "knowledge_base/keras.md",
     "knowledge_base/qkeras.md",
@@ -174,35 +195,14 @@
     "knowledge_base/pytorch.md",
     "knowledge_base/ASICs.md",
     "FPGA_deployment/Wed_Apr_5_2023.md",
-    "FPGA_deployment/Russell_workflow.md",
     "FPGA_deployment/Fri_Apr_7_2023.md",
     "FPGA_deployment/Mon_Apr_10_2023.md",
-    "FPGA_deployment/Tues_Apr_11_2023.md",
-    "APx passthrough tutorial.md",
-    "B-parking/Wed_Apr_5_2023.md",
-    "B-parking/Fri_Apr_7_2023.md",
-    "B-parking/Mon_Apr_10_2023.md",
-    "B-parking/Tue_Apr_11_2023.md",
-    "B-parking/Fri_Apr_14_2023.md",
     "B-parking/B-parking,/ Mon/ Apr/ 10,",
     "B-parking/B-parking,/ Mon/ Apr",
     "B-parking/B-parking,/ Mon",
     "B-parking/B-parking,",
-    "img/jan2023plots.png",
-    "img/oct2022plots.png",
-    "img/Pasted image 20230405165604.png",
-    "img/Pasted image 20230405165551.png",
-    "img/Pasted image 20230405165527.png",
-    "img/6971833B-3BDE-4CE8-B96C-131BFA3D71C1.png",
-    "img/F8396BF7-78C0-48BC-918B-421ED4ACF3EA.png",
-    "img/30D4883B-0963-4CB1-A63C-907A35FB1D44.png",
-    "img/Pasted image 20230405165619.png",
-    "img/Pasted image 20230407132959.png",
     "linewrap.css",
-    "B-parking/Untitled",
     "knowedge base",
-    "Scully",
-    "knowledge_base",
-    "FPGA_deployment"
+    "Scully"
   ]
 }

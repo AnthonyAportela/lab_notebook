@@ -1,4 +1,4 @@
-![[hls4ml_workflow.png]]
+![[knowledge_base/img/hls4ml_workflow.png]]
 
 [From the docs](https://fastmachinelearning.org/hls4ml/concepts.html)
 >The goal of `hls4ml` is to provide an efficient and fast translation of machine learning models from open-source packages (like [Keras](/knowledge_base/keras.md) and [PyTorch](/knowledge_base/pytorch.md)) for training machine learning algorithms to high level synthesis ([HLS](/knowledge_base/HLS.md)) code that can then be transpiled to run on an [FPGA](/knowledge_base/FPGAs.md). The resulting HLS project can be then used to produce an IP which can be plugged into more complex designs or be used to create a kernel for CPU co-processing. The user has freedom to define many of the parameters of their algorithm to best suit their needs.

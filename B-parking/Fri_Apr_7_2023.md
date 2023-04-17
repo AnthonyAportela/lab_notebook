@@ -19,7 +19,7 @@ Christina's:
 
 And these are the resulting yields:
 
-![[Pasted image 20230407132959.png]]
+![[B-parking/img/fri_apr_7_2023_plot1.png]]
 
 They seem to be off from each other by a factor of 100. Maybe I should also try just using the simple estimate for number of b mesons in aram's like I did for christina's.
 
@@ -34,7 +34,7 @@ Christina's:
 ```
 
 Now this is the resulting yield:
-![[Pasted image 20230407133225.png]]
+![[B-parking/img/fri_apr_7_2023_plot2.png]]
 Now there's a factor of 100 difference but in the other direction.
 
 Maybe they both need a muon filter correction? Let's try that:
@@ -50,7 +50,7 @@ Christina's:
 ```
 
 Fingers crossed...
-![[Pasted image 20230407133442.png]]YEAH
+![[B-parking/img/fri_apr_7_2023_plot3.png]]YEAH
 
 well that makes plenty of sense. Both sets are muon filtered. Aram's is additionally gen filtered. Remember that the SF is not included anywhere yet.
 
@@ -76,10 +76,10 @@ BR2 = 2 * np.sqrt(N_bkg2)/N_sig2
 ```
 
 with the following plots:
-![[Pasted image 20230407135227.png]]
+![[B-parking/img/fri_apr_7_2023_plot4.png]]
 
 and a factor difference of:
-![[Pasted image 20230407135247.png]]
+![[B-parking/img/fri_apr_7_2023_plot5.png]]
 ...3-4 times.
 
 This seems wrong. Apparently, the N_bkg is different, when they should be the same.

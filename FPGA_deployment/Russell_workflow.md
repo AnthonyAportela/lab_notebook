@@ -1,4 +1,4 @@
-![[/img/russel_workflow.jpeg]]
+![[FPGA_deployment/img/russel_workflow.jpeg]]
 So my understanding of how this works is as follows:
 
 The over all goal is to convert ntuples into labeled jets. The jet's are labelled based on whether or not they are associated with an [LLP](/knowledge_base/LLPs.md). Then we train an [RNN](/knowledge_base/RNNs.md) on this data 
