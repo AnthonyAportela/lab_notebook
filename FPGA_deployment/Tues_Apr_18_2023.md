@@ -1,6 +1,6 @@
 [Prev](/FPGA_deployment/Tues_Apr_11_2023.md)
 
-Working on making [this tutorial](/knowledge_base/APx) for the APx board passthrough algorithm. I will write notes on any problems I come up against.
+Working on making [this tutorial](/knowledge_base/APx.md) for the APx board passthrough algorithm. I will write notes on any problems I come up against.
 
 Uh oh, it looks like I don't have access to all the submodules.
 

@@ -183,9 +183,9 @@
   },
   "active": "e9d9ab14dddc29e9",
   "lastOpenFiles": [
-    "pusher.sh",
     "knowledge_base/APx.md",
     "FPGA_deployment/Tues_Apr_18_2023.md",
+    "pusher.sh",
     "knowledge_base/LPC.md",
     "knowledge_base/Correlator4.md",
     "FPGA_deployment/Mon_Apr_10_2023.md",
@@ -227,7 +227,6 @@
     "B-parking/B-parking,/ Mon/ Apr",
     "B-parking/B-parking,/ Mon",
     "B-parking/B-parking,",
-    "linewrap.css",
-    "knowedge base"
+    "linewrap.css"
   ]
 }
