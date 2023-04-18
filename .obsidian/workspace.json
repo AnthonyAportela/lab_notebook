@@ -183,6 +183,7 @@
   },
   "active": "e9d9ab14dddc29e9",
   "lastOpenFiles": [
+    "pusher.sh",
     "knowledge_base/APx.md",
     "FPGA_deployment/Tues_Apr_18_2023.md",
     "knowledge_base/LPC.md",
@@ -212,7 +213,6 @@
     "knowledge_base/mamba.md",
     "knowledge_base/Scully_Mulder.md",
     "knowledge_base/pytorch.md",
-    "knowledge_base/ASICs.md",
     "FPGA_deployment/img",
     "knowledge_base/img",
     "FPGA_deployment/img",
