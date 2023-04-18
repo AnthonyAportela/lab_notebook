@@ -8,36 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "163d8cd13a558d67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FPGA_deployment/Tues_Apr_11_2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d5412d321534e4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FPGA_deployment/Tues_Apr_18_2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e9d9ab14dddc29e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FPGA_deployment/Tues_Apr_18_2023.md",
+                "file": "B-parking/Mon_Apr_17_2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b30e142b96a3705f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B-parking/Tue_Apr_11_2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c695988b0445558",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B-parking/Tue_Apr_18_2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FPGA_deployment/Tues_Apr_18_2023.md",
+                "file": "B-parking/Tue_Apr_18_2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FPGA_deployment/Tues_Apr_18_2023.md",
+                "file": "B-parking/Tue_Apr_18_2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FPGA_deployment/Tues_Apr_18_2023.md"
+                "file": "B-parking/Tue_Apr_18_2023.md"
               }
             }
           },
@@ -181,10 +181,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e9d9ab14dddc29e9",
+  "active": "6c695988b0445558",
   "lastOpenFiles": [
-    "knowledge_base/APx.md",
+    "B-parking/Tue_Apr_11_2023.md",
+    "B-parking/Mon_Apr_17_2023.md",
+    "B-parking/Fri_Apr_14_2023.md",
+    "B-parking/Tue_Apr_18_2023.md",
+    "B-parking/img/mon_apr_17_2023_plot2.png",
     "FPGA_deployment/Tues_Apr_18_2023.md",
+    "FPGA_deployment/Tues_Apr_11_2023.md",
+    "knowledge_base/APx.md",
     "pusher.sh",
     "knowledge_base/LPC.md",
     "knowledge_base/Correlator4.md",
@@ -192,15 +198,9 @@
     "FPGA_deployment/Fri_Apr_7_2023.md",
     "knowledge_base/Untitled.md",
     "knowledge_base/Adding_ssh_key_for_secure_access_to_gitlab.md",
-    "FPGA_deployment/Tues_Apr_11_2023.md",
-    "B-parking/Mon_Apr_17_2023.md",
-    "B-parking/Tue_Apr_11_2023.md",
-    "B-parking/img/mon_apr_17_2023_plot2.png",
-    "B-parking/img/mon_apr_17_2023_plot2.png",
     "B-parking/img/mon_apr_17_2023_plot1.png",
     "B-parking/img/mon_apr_17_2023.md",
     "B-parking/img/oct2022plots.png",
-    "B-parking/Fri_Apr_14_2023.md",
     "B-parking/Mon_Apr_10_2023.md",
     "knowledge_base/LLPs.md",
     "knowledge_base/RNNs.md",
