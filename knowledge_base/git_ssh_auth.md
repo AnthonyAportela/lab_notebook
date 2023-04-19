@@ -24,6 +24,9 @@ eval "$(ssh-agent -s)"
 * add the ssh keys to the agent:
 ```bash
 ssh-add ~/.ssh/github
+```
+
+```bash
 ssh-add ~/.ssh/gitlab
 ```
 
