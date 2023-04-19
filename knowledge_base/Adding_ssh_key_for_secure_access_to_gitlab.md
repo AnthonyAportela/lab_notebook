@@ -1,12 +1,15 @@
 ## Adding an SSH Key for Secure Access to GitLab
 
+If you need authentication from both gitlab and github, or even a multitude of other sources, the steps are more intricate. Here's a [proper tutorial](/knowledge_base/git_ssh_auth.md) for that case.
+
 1. Generate an SSH key pair if you haven't already done so. You can use the following command in your terminal to generate a new SSH key pair:
 
 ```
 ssh-keygen -t rsa -b 4096 -C aaportel@cern.ch
 ```
+(replace your gitlab email with your github email if needed)
 
-This command will create a new SSH key pair with a 4096-bit key size and the specified email address.
+This command will create a new SSH key pair with a 4096-bit key size and the specified email address. **Remember to name it something different if you already have a key pair.**
 
 2. Copy the public key to your clipboard after displaying it using the following command:
 
