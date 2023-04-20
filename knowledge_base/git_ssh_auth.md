@@ -38,7 +38,7 @@ nano ~/.ssh/config
 ```
 
 * then add the following content to the file:
-```yaml
+```toml
 # GitHub account
 Host github.com
   HostName github.com

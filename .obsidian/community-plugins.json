@@ -1,7 +1,7 @@
 [
-  "cm-editor-syntax-highlight-obsidian",
   "table-editor-obsidian",
   "obsidian-latex-suite",
-  "obsidian-git",
-  "obsidian-link-converter"
+  "obsidian-link-converter",
+  "obsidian-codemirror-options",
+  "obsidian-style-settings"
 ]
