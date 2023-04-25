@@ -45,6 +45,18 @@ make
 NOTE: if the tutorial fails at this step, it's probably because we didn't source the `setup_vitis_20222.sh` script. If it still doesn't work, maybe there's an environment mismatch.
 
 This might take a few minutes to run. In fact it's seeming to take at least an hour....
+Can confirm it took an hour.
+
+Then once that's done, do:
+```sh
+make sim
+```
+This will also take a while.
+
+What do these two `make` steps do? According to Christian Herwig:
+
+> The short answer is that both build the firmware sources, then `make xsim` runs the behavioral simulation while `make` performs all the steps to get a bitfile, including logic synthesis and place+route.
+
 
 
 

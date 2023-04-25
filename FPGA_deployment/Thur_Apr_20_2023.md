@@ -10,3 +10,5 @@ cp /home/therwig/setup_vitis_20222.sh .
 ```
 
 I'll add some steps to my [APx tutorial](/knowledge_base/APx.md) to include this.
+
+Ok, I got everything to work.

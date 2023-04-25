@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B-parking/B-parking, Fris 14, 2023.md",
+                "file": "FPGA_deployment/Russell_workflow.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "B-parking/B-parking, Fris 14, 2023.md",
+            "file": "FPGA_deployment/Russell_workflow.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "B-parking/B-parking, Fris 14, 2023.md",
+            "file": "FPGA_deployment/Russell_workflow.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "B-parking/B-parking, Fris 14, 2023.md"
+            "file": "FPGA_deployment/Russell_workflow.md"
           }
         }
       }
@@ -134,6 +134,19 @@
   },
   "active": "9b962fe566e0e12e",
   "lastOpenFiles": [
+    "knowledge_base/APx.md",
+    "MadGraph.md",
+    "knowledge_base/pytorch.md",
+    "knowledge_base/ASICs.md",
+    "knowledge_base/Cplusplus_cutflow_code.md",
+    "B-parking/Mon_Apr_17_2023.md",
+    "pusher.sh",
+    "FPGA_deployment/Thur_Apr_20_2023.md",
+    "knowledge_base/git_ssh_auth.md",
+    "B-parking/img/mon_apr_17_2023_plot2.png",
+    "FPGA_deployment/Wed_Apr_19_2023.md",
+    "B-parking/img/mon_apr_17_2023_plot1.png",
+    "FPGA_deployment/img/christian_message_Wed_Apr_19_2023.png",
     "img/6971833B-3BDE-4CE8-B96C-131BFA3D71C1.png",
     "img/30D4883B-0963-4CB1-A63C-907A35FB1D44.png",
     "img/F8396BF7-78C0-48BC-918B-421ED4ACF3EA.png",
@@ -144,31 +157,19 @@
     "30D4883B-0963-4CB1-A63C-907A35FB1D44.png",
     "6971833B-3BDE-4CE8-B96C-131BFA3D71C1.png",
     "F8396BF7-78C0-48BC-918B-421ED4ACF3EA.png",
-    "img/russel_workflow.jpeg",
     "knowledge base/qkeras.md",
     "knowledge base/keras.md",
     "knowledge base/RNNs.md",
     "knowledge base/Correlator4.md",
     "knowledge base/mamba.md",
-    "img/Pasted image 20230407132959.png",
     "B-parking/B-parking, Mon Apr 10, 2023.md",
     "knowledge base/Adding ssh key for secure access to gitlab.md",
-    "img/Pasted image 20230410150204.png",
-    "img/Pasted image 20230410142640.png",
     "knowledge base/hls4ml.md",
     "knowledge base/FPGAs.md",
     "FPGA deployment/FPGA deployment, Fri Apr 7, 2023.md",
     "B-parking/B-parking, Wed Apr 5, 2023.md",
     "knowledge base/LPC.md",
     "knowledge base/LLPs.md",
-    "FPGA deployment/FPGA deployment, Mon 10, 2023.md",
-    "FPGA deployment/Russell_workflow.md",
-    "knowledge base/Scully_Mulder.md",
-    "knowledge base/kerberos.md",
-    "FPGA deployment/FPGA deployment, Tues 11, 2023.md",
-    "knowledge base/APx passthrough tutorial.md",
-    "FPGA deployment/FPGA deployment, Wed Apr 5, 2023.md",
-    "knowledge base/HLS.md",
-    "B-parking, Wed Apr 5, 2023.md"
+    "FPGA deployment/FPGA deployment, Mon 10, 2023.md"
   ]
 }
