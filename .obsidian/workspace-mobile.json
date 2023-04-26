@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5835d374d372c646",
+        "id": "e0d8e222ea39bb3c",
         "type": "tabs",
         "children": [
           {
-            "id": "9b962fe566e0e12e",
+            "id": "6b3836f02725bfa4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FPGA_deployment/Russell_workflow.md",
+                "file": "knowledge_base/parton_factorization_theorem.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "FPGA_deployment/Russell_workflow.md",
+            "file": "knowledge_base/parton_factorization_theorem.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "FPGA_deployment/Russell_workflow.md",
+            "file": "knowledge_base/parton_factorization_theorem.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "FPGA_deployment/Russell_workflow.md"
+            "file": "knowledge_base/parton_factorization_theorem.md"
           }
         }
       }
@@ -132,10 +132,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9b962fe566e0e12e",
+  "active": "6b3836f02725bfa4",
   "lastOpenFiles": [
-    "knowledge_base/APx.md",
+    "knowledge_base/parton_factorization_theorem.md",
     "MadGraph.md",
+    "FPGA_deployment/Russell_workflow.md",
+    "B-parking/img/sig_oct_2022__bkg_oct_2022__code_oct_2022.png",
+    "B-parking/Tue_Apr_25_2023.md",
+    "knowledge_base/APx.md",
     "knowledge_base/pytorch.md",
     "knowledge_base/ASICs.md",
     "knowledge_base/Cplusplus_cutflow_code.md",
@@ -156,7 +160,6 @@
     "B-parking/B-parking, Fri Apr 7, 2023.md",
     "30D4883B-0963-4CB1-A63C-907A35FB1D44.png",
     "6971833B-3BDE-4CE8-B96C-131BFA3D71C1.png",
-    "F8396BF7-78C0-48BC-918B-421ED4ACF3EA.png",
     "knowledge base/qkeras.md",
     "knowledge base/keras.md",
     "knowledge base/RNNs.md",
@@ -167,9 +170,6 @@
     "knowledge base/hls4ml.md",
     "knowledge base/FPGAs.md",
     "FPGA deployment/FPGA deployment, Fri Apr 7, 2023.md",
-    "B-parking/B-parking, Wed Apr 5, 2023.md",
-    "knowledge base/LPC.md",
-    "knowledge base/LLPs.md",
-    "FPGA deployment/FPGA deployment, Mon 10, 2023.md"
+    "B-parking/B-parking, Wed Apr 5, 2023.md"
   ]
 }
