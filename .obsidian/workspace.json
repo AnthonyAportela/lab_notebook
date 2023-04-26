@@ -156,45 +156,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "floating": {
-    "id": "b6d82aa4cd69f30c",
-    "type": "floating",
-    "children": [
-      {
-        "id": "b6a893b929edb4ac",
-        "type": "window",
-        "children": [
-          {
-            "id": "f38171ed3efeefc4",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1c5d701968484770",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Collider_physics/HW_3/PHYS239_ProblemSet3.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1034,
-        "y": 25,
-        "width": 886,
-        "height": 1055,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "e6a2196531dc3578",
   "lastOpenFiles": [
-    "Collider_physics/HW_3/PHYS239_ProblemSet3.pdf",
+    "Collider_physics/HW_3/img/eemm.png",
     "Collider_physics/HW_3/HW_3.md",
+    "Collider_physics/HW_3/img",
+    "Collider_physics/HW_3/PHYS239_ProblemSet3.pdf",
     "Collider_physics/HW_3/aleph.pdf",
     "B-parking/Tue_Apr_11_2023.md",
     "B-parking/Tue_Apr_25_2023.md",
@@ -232,11 +199,9 @@
     "pusher.sh",
     "B-parking/img/mon_apr_17_2023_plot1.png",
     "B-parking/img/oct2022plots.png",
-    "FPGA_deployment/img",
     "img/Pasted image 20230410150204.png",
     "img/Pasted image 20230410150145.png",
     "img/F8396BF7-78C0-48BC-918B-421ED4ACF3EA.png",
-    "img/Pasted image 20230410164341.png",
-    "img/Pasted image 20230410164406.png"
+    "img/Pasted image 20230410164341.png"
   ]
 }
