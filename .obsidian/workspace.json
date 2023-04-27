@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2744110db1be9aa3",
+        "id": "ec7b5849d820a0ad",
         "type": "tabs",
         "children": [
           {
-            "id": "e6a2196531dc3578",
+            "id": "d37c090a0e665d85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge_base/git_ssh_auth.md",
+                "file": "Collider_physics/HW_3/HW_3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge_base/git_ssh_auth.md",
+                "file": "Collider_physics/HW_3/HW_3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge_base/git_ssh_auth.md",
+                "file": "Collider_physics/HW_3/HW_3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge_base/git_ssh_auth.md"
+                "file": "Collider_physics/HW_3/HW_3.md"
               }
             }
           },
@@ -156,10 +156,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e6a2196531dc3578",
+  "active": "d37c090a0e665d85",
   "lastOpenFiles": [
-    "knowledge_base/ASICs.md",
     "FPGA_deployment/Fri_Apr_7_2023.md",
+    "knowledge_base/ASICs.md",
+    "knowledge_base/git_ssh_auth.md",
     "Collider_physics/HW_3/HW_3.md",
     "Collider_physics/HW_3/img/eemm.png",
     "Collider_physics/HW_3/img",
@@ -188,7 +189,6 @@
     "knowledge_base/hls4ml.md",
     "knowledge_base/vivado_corr4.md",
     "knowledge_base/Correlator4.md",
-    "knowledge_base/git_ssh_auth.md",
     "FPGA_deployment/Tues_Apr_18_2023.md",
     "FPGA_deployment/Wed_Apr_19_2023.md",
     "FPGA_deployment/img/christian_message_Wed_Apr_19_2023.png",
