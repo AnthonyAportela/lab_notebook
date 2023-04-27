@@ -20,6 +20,18 @@ t &= (p_{1}-p_{1}^\prime)^2 \\
 \end{align}
 $$
 
+Since we're in the center of mass frame we can reasonably define
+
+$$
+\vec{p_{1}} = E [1, 0, 0, 1] \to |\vec{p_{1}}|=E.
+$$
+
+And since we're doing $e^+e^- \to e^+e^-$, we can also assume $|\vec{p_{1}}|=|\vec{p_{1}}^\prime|=E$. We also ought to know that $s=4E^2$. Altogether this gets us
+
+$$
+t = -\frac{s}{2}(1-\cos{\theta})
+$$
+
 
 
 
