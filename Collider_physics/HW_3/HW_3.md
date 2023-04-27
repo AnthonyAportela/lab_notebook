@@ -8,7 +8,7 @@ $$
 Note that if we ignore the electron mass, $s + t + u = 0$. 
 
 ## a. (5 points) 
-Rewrite this formula in terms of $s$ and $\cos\theta$.
+**Rewrite this formula in terms of $s$ and $\cos\theta$.**
 
 We ought to know that at high energies, 
 
@@ -38,7 +38,7 @@ $$
 u=-\frac{s}{2}(1+\cos \theta).
 $$
 
-One thoroughly jammed, we can move onto plugging into the differential cross-section, which according to Mathematica,
+One thoroughly jammed, we can move onto plugging into the differential cross-section, which according to Mathematica turns out to be,
 
 $$
 \frac{d\sigma}{d\Omega} = \frac{\pi  \alpha ^2 (\cos (2 \theta )+7)^2}{8 s (\cos (\theta )-1)^2}.
@@ -46,11 +46,13 @@ $$
 
 
 ## b. (5 points) 
-What feature of the diagrams causes the differential cross section to diverge as $\theta\to 0$? 
+**What feature of the diagrams causes the differential cross section to diverge as $\theta\to 0$?** 
 
+As $\theta \to 0$, $t \to 0$, and so the momentum transfer approaches zero.
 
-Why didn't we see this for $e^+e^-\to \mu^+\mu^-$?
+**Why didn't we see this for $e^+e^-\to \mu^+\mu^-$?**
 
+My guess is that the momentum transfer does not approach zero in this case.
 
 ## c. (10 points) 
 
