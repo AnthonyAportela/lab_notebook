@@ -14,7 +14,7 @@ We ought to know that at high energies,
 $$
 t = (p_{1}-p_{1}')^2 
  \approx -2 p_{1} \cdot p_{1}'
-= -2 \mid p_{1}\mid\mid p_{1}'\mid (1-\cos{\theta})
+= -2 | p_{1}| | p_{1}'| (1-\cos{\theta})
 $$
 
 
