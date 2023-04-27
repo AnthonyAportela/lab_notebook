@@ -11,14 +11,22 @@ Note that if we ignore the electron mass, $s + t + u = 0$.
 Rewrite this formula in terms of $s$ and $\cos\theta$.
 
 We ought to know that at high energies, 
-
 $$
 \begin{align}
 t &= (p_{1}-p_{1}^\prime)^2 \\
 &\approx -2 p_{1} \cdot p_{1}^\prime \\
-&= -2 | p_{1}| | p_{1}^\prime| (1-\cos{\theta})
+&= -2 | \vec{p_{1}}| | \vec{p_{1}}^\prime| (1-\cos{\theta}).
 \end{align}
 $$
+Since we're in the center of mass frame we can reasonably define
+$$
+\vec{p_{1}} = E [1, 0, 0, 1] \to |\vec{p_{1}}|=E.
+$$
+And since we're doing $e^+e^- \to e^+e^-$, we can also assume $|\vec{p_{1}}|=|\vec{p_{1}}^\prime|=E$. We also ought to know that $s=4E^2$. Altogether this gets us
+$$
+t = -\frac{s}{2}(1-\cos{\theta})
+$$
+
 
 
 
