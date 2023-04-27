@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Collider_physics/HW_3/HW_3.md",
+                "file": "knowledge_base/git_ssh_auth.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collider_physics/HW_3/HW_3.md",
+                "file": "knowledge_base/git_ssh_auth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collider_physics/HW_3/HW_3.md",
+                "file": "knowledge_base/git_ssh_auth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collider_physics/HW_3/HW_3.md"
+                "file": "knowledge_base/git_ssh_auth.md"
               }
             }
           },
@@ -158,8 +158,10 @@
   },
   "active": "e6a2196531dc3578",
   "lastOpenFiles": [
-    "Collider_physics/HW_3/img/eemm.png",
+    "knowledge_base/ASICs.md",
+    "FPGA_deployment/Fri_Apr_7_2023.md",
     "Collider_physics/HW_3/HW_3.md",
+    "Collider_physics/HW_3/img/eemm.png",
     "Collider_physics/HW_3/img",
     "Collider_physics/HW_3/PHYS239_ProblemSet3.pdf",
     "Collider_physics/HW_3/aleph.pdf",
@@ -193,7 +195,6 @@
     "FPGA_deployment/Wed_Apr.md",
     "B-parking/Mon_Apr_10_2023.md",
     "FPGA_deployment/Tues_Apr_11_2023.md",
-    "FPGA_deployment/Fri_Apr_7_2023.md",
     "B-parking/Wed_Apr_5_2023.md",
     "B-parking/img/mon_apr_17_2023_plot2.png",
     "pusher.sh",

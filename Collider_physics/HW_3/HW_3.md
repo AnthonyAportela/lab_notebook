@@ -11,11 +11,13 @@ Note that if we ignore the electron mass, $s + t + u = 0$.
 Rewrite this formula in terms of $s$ and $\cos\theta$.
 
 We ought to know that at high energies, 
+
 $$
 t = (p_{1}-p_{1})^2 
 $$
 
-
+ \approx -2 p_{1} \cdot p_{1}'
+= -2 | p_{1}| | p_{1}'| (1-\cos{\theta})
 
 
 ## b. (5 points) 
