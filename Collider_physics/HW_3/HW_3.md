@@ -15,7 +15,7 @@ $$
 \begin{align}
 t &= (p_{1}-p_{1}^\prime)^2 \\
 &\approx -2 p_{1} \cdot p_{1}^\prime \\
-&= -2 | \vec{p_{1}}| | \vec{p_{1}}^\prime| (1-\cos{\theta}).
+&= -2 | \vec{p_{1}}| | \vec{p_{1}}^\prime| (1-\cos{\theta})
 \end{align}
 $$
 
