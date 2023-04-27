@@ -13,13 +13,12 @@ Rewrite this formula in terms of $s$ and $\cos\theta$.
 We ought to know that at high energies, 
 
 $$
-t = (p_{1}-p_{1}^\prime)^2  
+t = (p_{1}-p_{1}^\prime)^2  \\
 \approx -2 p_{1} \cdot p_{1}^\prime
 = -2 | p_{1}| | p_{1}^\prime| (1-\cos{\theta})
 $$
 
- \approx -2 p_{1} \cdot p_{1}'
-= -2 | p_{1}| | p_{1}'| (1-\cos{\theta})
+
 
 
 ## b. (5 points) 
