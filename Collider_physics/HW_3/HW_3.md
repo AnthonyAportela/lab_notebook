@@ -38,9 +38,11 @@ $$
 u=-\frac{s}{2}(1+\cos \theta).
 $$
 
-One thoroughly jammed, we can move onto plugging into the differential cross-section.
+One thoroughly jammed, we can move onto plugging into the differential cross-section, which according to Mathematica,
 
-
+$$
+\frac{d\sigma}{d\Omega} = \frac{\pi  \alpha ^2 (\cos (2 \theta )+7)^2}{8 s (\cos (\theta )-1)^2}.
+$$
 
 
 ## b. (5 points) 
