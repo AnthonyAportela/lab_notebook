@@ -1,4 +1,4 @@
-# MadGraph Bhabha scattering $e^+e^- \to e^+e^-$ (20 points).
+# 1. MadGraph Bhabha scattering $e^+e^- \to e^+e^-$ (20 points).
 The differential cross section for Bhabha scattering in QED in the high-energy limit can be written in terms of the Mandelstam variables $s = (p_1 + p_2)^2$, $t = (p_1-p_3)^2$, and $u = (p_1-p_4)^2$,
 
 $$
@@ -10,7 +10,15 @@ Note that if we ignore the electron mass, $s + t + u = 0$.
 ## a. (5 points) 
 Rewrite this formula in terms of $s$ and $\cos\theta$.
 
-So we know that $t = (p_{1}-p_{1}')^2$
+We ought to know that at high energies, 
+$$
+t = (p_{1}-p_{1}')^2 \\ 
+ \approx -2 p_{1} \cdot p_{1}'
+= -2 \mid p_{1}\mid\mid p_{1}'\mid (1-\cos{\theta})
+=
+$$
+
+
 
 
 ## b. (5 points) 
