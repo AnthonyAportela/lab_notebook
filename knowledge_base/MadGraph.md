@@ -1,28 +1,21 @@
-To use madgraph, we first gotta be in CMSSW
+In LPC, all you need is a container. 
 
-if on lpc, first:
-```sh
-source /cvmfs/cms.cern.ch/cmsset_default.sh
+```bash
+mkdir MadGraph
+cd MadGraph
+singularity exec docker://scailfin/madgraph5-amc-nlo:latest /bin/bash
 ```
 
-then do this in a directory with a big enough volume
-```sh
-cmsrel CMSSW_10_2_18
-cd CMSSW_10_2_18/src
-cmsenv
-```
-You can pick a different version but this works so far.
-
-Then download and untar madgraph:
-```sh
-wget https://launchpad.net/mg5amcnlo/3.0/3.4.x/+download/MG5_aMC_v3.4.2.tar.gz
-tar -xzvf MG5_aMC_v3.4.2.tar.gz
+Then to start MadGraph, we just do:
+```bash
+mg5_aMC
 ```
 
-To run madgraph interactively:
-```sh
-./MG5_aMC_v3_4_2/bin/mg5_aMC
+If something fucks up, a good thing to try is to reinstall the container by deleting it's cache:
+```bash
+rm -rf ~/.apptainer
 ```
+
 
 #### Create Process Directory
 

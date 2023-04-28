@@ -56,8 +56,9 @@ My guess is that the momentum transfer does not approach zero in this case.
 
 ## c. (10 points) 
 
-Generate 10,000 events using MadGraph (excluding the $Z$ boson exchange diagram) at $\sqrt{s}=1$\,TeV. 
-
+Generate 10,000 events using MadGraph (excluding the $Z$ boson exchange diagram) at $\sqrt{s}=1$TeV. 
 Plot the resulting distribution as a function of $\cos\theta$ and compare to the theoretical expectation.
+
+![](Collider_physics/HW_3/img/eeee_scattering.png)
 
 What difference(s) do you observe?
