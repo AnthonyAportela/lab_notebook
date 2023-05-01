@@ -1,3 +1,5 @@
+A repo on this hw can be found [here](https://github.com/AnthonyAportela/lab_notebook/tree/main/Collider_physics/HW_3).
+
 # 2. MadGraph Bhabha scattering $e^+e^- \to e^+e^-$ (20 points).
 The differential cross section for Bhabha scattering in QED in the high-energy limit can be written in terms of the Mandelstam variables $s = (p_1 + p_2)^2$, $t = (p_1-p_3)^2$, and $u = (p_1-p_4)^2$,
 
@@ -118,4 +120,4 @@ However, this get's me a bunch of explicitly, non-loop diagrams, with an added a
 Makes me feel like I did not properly exclude everything. 
 Maybe I didn't properly exclude ghosts?
 
-Anyways, there were 24 NLO diagrams generated in total.
+Anyways, there were 24 NLO diagrams generated in total. Their postscripts can be found [here](https://github.com/AnthonyAportela/lab_notebook/tree/main/Collider_physics/HW_3/img/eeaee_MG_QED_feynman_diagrams).
