@@ -11,11 +11,9 @@
             "id": "719cbc139f3931ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Collider_physics/HW_3/HW_3.md",
-                "mode": "source",
-                "source": false
+                "file": "Collider_physics/HW_3/HW_3.pdf"
               }
             }
           },
@@ -97,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collider_physics/HW_3/HW_3.md",
+                "file": "Collider_physics/HW_3/HW_3.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collider_physics/HW_3/HW_3.md",
+                "file": "Collider_physics/HW_3/HW_3.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collider_physics/HW_3/HW_3.md"
+                "file": "Collider_physics/HW_3/HW_3.pdf"
               }
             }
           },
@@ -168,10 +166,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "719cbc139f3931ef",
+  "active": "6c97abf1fb86c526",
   "lastOpenFiles": [
-    "Collider_physics/HW_3/img/AFB_eemm_aleph.png",
+    "Collider_physics/HW_3/img/eeaee_MG_QED_feynman_diagrams",
+    "Collider_physics/HW_3/img/eeaee_MG_QED_feynman_diagrams/born.ps",
+    "Collider_physics/HW_3/img/eeaee_MG_QED_feynman_diagrams/matrix_1.ps",
+    "Collider_physics/HW_3/img/eeaee_MG_QED_feynman_diagrams/matrix_2.ps",
+    "Collider_physics/HW_3/img/eeaee_MG_QED_feynman_diagrams/matrix_3.ps",
     "Collider_physics/HW_3/HW_3.md",
+    "Collider_physics/HW_3/HW_3.pdf",
+    "Collider_physics/HW_3/img/AFB_eemm_aleph.png",
     "Collider_physics/HW_3/img/xsec_eemm_aleph.png",
     "Collider_physics/HW_3/img/eeee_scattering.png",
     "knowledge_base/MadGraph.md",
@@ -191,10 +195,6 @@
     "Collider_physics/HW_3/aleph.pdf",
     "Collider_physics/HW_3/main.tex",
     "Collider_physics/HW_3/main.bib",
-    "Collider_physics/HW_3/cms_unsrt.bst",
-    "Collider_physics/HW_3/appendix.pdf",
-    "Collider_physics/HW_3",
-    "Collider_physics",
     "knowledge_base/parton_factorization_theorem.md",
     "knowledge_base/master_parton_xsec.md",
     "knowledge_base/Untitled.md",
@@ -211,7 +211,6 @@
     "FPGA_deployment/img/christian_message_Wed_Apr_19_2023.png",
     "FPGA_deployment/Wed_Apr.md",
     "B-parking/img/mon_apr_17_2023_plot2.png",
-    "pusher.sh",
     "B-parking/img/mon_apr_17_2023_plot1.png",
     "B-parking/img/oct2022plots.png",
     "img/Pasted image 20230410150204.png"
