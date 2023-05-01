@@ -42,3 +42,52 @@ Interactive prompts will ask us to edit the `param_card.dat` (which controls p
 #### Analyze Events
 
 We will use the [`analyze_events.ipynb`](https://github.com/jmduarte/phys239/blob/main/MadGraph/analyze_events.ipynb) Jupyter notebook to analyze the events.
+
+### Some extra stuff
+
+If you're having trouble with `scan`ning through parameters using the `CLI`, there's no good documentation for this. This [FAQ](https://answers.launchpad.net/mg5amcnlo/+faq/2186) is the best thing out there. You just gotta do the equivalent thing in a script. I might make a python script to generate this for me.
+You can script things. So if you wanna scan through multiple parameters, first make a file, then put something like the following in it
+
+```python
+generate e+ e- > e+ e-  #generate the feynman diagrams 
+output aleph  #make an outgoing directory
+launch aleph  #launch
+	set ebeam1 30  #change the param
+	set ebeam2 30
+launch  #then do that however many times you wanna.
+	set ebeam1 35
+	set ebeam2 35
+launch
+	set ebeam1 40
+	set ebeam2 40
+launch
+	set ebeam1 42.5
+	set ebeam2 42.5
+launch
+	set ebeam1 44
+	set ebeam2 44
+launch
+	set ebeam1 45
+	set ebeam2 45
+launch
+	set ebeam1 45.5
+	set ebeam2 45.5
+launch
+	set ebeam1 46
+	set ebeam2 46
+launch
+	set ebeam1 47.5
+	set ebeam2 47.5
+launch
+	set ebeam1 50
+	set ebeam2 50
+launch
+	set ebeam1 55
+	set ebeam2 55
+launch
+	set ebeam1 60
+	set ebeam2 60
+```
+
+Let's say you saved it as `runner`, then you run it doing `mg5_aMC runner` and it should run as if you typed the above in the `CLI`. 
+

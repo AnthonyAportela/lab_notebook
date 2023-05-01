@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "e0d8e222ea39bb3c",
+        "id": "f3ca54dc1de0c58d",
         "type": "tabs",
         "children": [
           {
-            "id": "6b3836f02725bfa4",
+            "id": "958bf892fed61629",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge_base/parton_factorization_theorem.md",
+                "file": "Collider_physics/HW_3/HW_3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ac61a2759504398",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge_base/MadGraph.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "knowledge_base/parton_factorization_theorem.md",
+            "file": "Collider_physics/HW_3/HW_3.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "knowledge_base/parton_factorization_theorem.md",
+            "file": "Collider_physics/HW_3/HW_3.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "knowledge_base/parton_factorization_theorem.md"
+            "file": "Collider_physics/HW_3/HW_3.md"
           }
         }
       }
@@ -132,12 +144,33 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6b3836f02725bfa4",
+  "active": "958bf892fed61629",
   "lastOpenFiles": [
+    "knowledge_base/MadGraph.md",
+    "Collider_physics/HW_3/HW_3.md",
     "knowledge_base/parton_factorization_theorem.md",
+    "B-parking/img/mon_apr_10_2023_plot2.png",
+    "B-parking/img/fri_apr_7_2023_plot1.png",
+    "B-parking/Tue_Apr_11_2023.md",
+    "B-parking/img/mon_apr_17_2023_plot2.png",
+    "B-parking/img/mon_apr_10_2023_plot1.png",
+    "B-parking/img/mon_apr_10_2023_plot4.png",
+    "B-parking/img/fri_apr_7_2023_plot4.png",
+    "knowledge_base/hls4ml.md",
+    "B-parking/Fri_Apr_28_2023.md",
+    "Collider_physics/HW_3/main.tex",
+    "B-parking/img/mon_apr_17_2023_plot1.png",
+    "B-parking/img/fri_apr_7_2023_plot5.png",
+    "B-parking/img/fri_apr_7_2023_plot3.png",
+    "B-parking/img/jan2023plots.png",
+    "B-parking/Fri_Apr_7_2023.md",
+    "Collider_physics/HW_3/aleph.pdf",
+    "Collider_physics/HW_3/PHYS239_ProblemSet3.pdf",
+    "Collider_physics/HW_3/main.bib",
+    "Collider_physics/HW_3/cms_unsrt.bst",
+    "Collider_physics/HW_3/appendix.pdf",
     "MadGraph.md",
     "FPGA_deployment/Russell_workflow.md",
-    "B-parking/img/sig_oct_2022__bkg_oct_2022__code_oct_2022.png",
     "B-parking/Tue_Apr_25_2023.md",
     "knowledge_base/APx.md",
     "knowledge_base/pytorch.md",
@@ -147,29 +180,14 @@
     "pusher.sh",
     "FPGA_deployment/Thur_Apr_20_2023.md",
     "knowledge_base/git_ssh_auth.md",
-    "B-parking/img/mon_apr_17_2023_plot2.png",
     "FPGA_deployment/Wed_Apr_19_2023.md",
-    "B-parking/img/mon_apr_17_2023_plot1.png",
-    "FPGA_deployment/img/christian_message_Wed_Apr_19_2023.png",
-    "img/6971833B-3BDE-4CE8-B96C-131BFA3D71C1.png",
-    "img/30D4883B-0963-4CB1-A63C-907A35FB1D44.png",
-    "img/F8396BF7-78C0-48BC-918B-421ED4ACF3EA.png",
-    "img/jan2023plots.png",
     "B-parking/B-parking, Tues 11, 2023.md",
     "B-parking/B-parking, Fris 14, 2023.md",
     "B-parking/B-parking, Fri Apr 7, 2023.md",
-    "30D4883B-0963-4CB1-A63C-907A35FB1D44.png",
-    "6971833B-3BDE-4CE8-B96C-131BFA3D71C1.png",
     "knowledge base/qkeras.md",
     "knowledge base/keras.md",
     "knowledge base/RNNs.md",
     "knowledge base/Correlator4.md",
-    "knowledge base/mamba.md",
-    "B-parking/B-parking, Mon Apr 10, 2023.md",
-    "knowledge base/Adding ssh key for secure access to gitlab.md",
-    "knowledge base/hls4ml.md",
-    "knowledge base/FPGAs.md",
-    "FPGA deployment/FPGA deployment, Fri Apr 7, 2023.md",
-    "B-parking/B-parking, Wed Apr 5, 2023.md"
+    "knowledge base/mamba.md"
   ]
 }

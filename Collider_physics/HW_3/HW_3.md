@@ -1,4 +1,4 @@
-# 1. MadGraph Bhabha scattering $e^+e^- \to e^+e^-$ (20 points).
+# 2. MadGraph Bhabha scattering $e^+e^- \to e^+e^-$ (20 points).
 The differential cross section for Bhabha scattering in QED in the high-energy limit can be written in terms of the Mandelstam variables $s = (p_1 + p_2)^2$, $t = (p_1-p_3)^2$, and $u = (p_1-p_4)^2$,
 
 $$
@@ -59,7 +59,26 @@ My guess is that the momentum transfer does not approach zero in this case.
 Generate 10,000 events using MadGraph (excluding the $Z$ boson exchange diagram) at $\sqrt{s}=1$TeV. 
 Plot the resulting distribution as a function of $\cos\theta$ and compare to the theoretical expectation.
 
-![](img/eeee_scattering.png){ width=50% }
+![](img/eeee_scattering.png)
+
+**What difference(s) do you observe?**
+There's no divergence in the MadGraph, probably because there's some sort of cutoff.
 
 
-What difference(s) do you observe?
+# 3. MadGraph vs. ALEPH experimental results (20 points).
+
+Using MadGraph, reproduce the experimental results from the ALEPH Collaboration, i.e. the total (inclusive) cross section $\sigma$ and forward-backward asymmetry $A_\mathrm{FB}$ of the muons as a function of $\sqrt{s}$ in the process $e^+e^-\to\mu^+\mu^-$.
+
+You will need to run MadGraph at a series of $\sqrt{s}$ values, so you will need to edit the `runcard.dat` directly. Of course, both $Z$ boson and $\gamma$ exchange diagrams need to be included.
+
+The forward-backward asymmetry is a measure of how many the imbalance between the forward and the backward directions:
+
+$$
+A_\mathrm{FB} = \frac{\sigma(\cos\theta>0) - \sigma(\cos\theta < 0)}{\sigma(\cos\theta > 0) + \sigma(\cos\theta < 0)}
+$$
+
+For $e^+e^-\to\mu^+\mu^-$, this quantity is nonzero in the standard model because of the chiral couplings of the $Z$ boson.
+
+In particular, generate 1,000 events at $\sqrt{s} = 60$, 70, 80, 85, 88, 90, 91, 92, 95, 100, 110, and 120,GeV. Plot $\sigma$ and $A_\mathrm{FB}$ versus $\sqrt{s}$ and compare to the data.
+
+![](img/xsec_eemm_aleph.png)
