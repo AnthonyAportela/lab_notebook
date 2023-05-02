@@ -15,10 +15,10 @@
       }
     },
     {
-      "query": "path:\"FPGA deployment\"",
+      "query": "path:FPGA_deployment",
       "color": {
         "a": 1,
-        "rgb": 3604735
+        "rgb": 5526240
       }
     }
   ],
@@ -32,6 +32,6 @@
   "repelStrength": 12.0255533854167,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.6425262702404507,
+  "scale": 1.251341930410725,
   "close": false
 }
