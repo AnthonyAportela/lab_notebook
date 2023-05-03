@@ -6,6 +6,8 @@ cd MadGraph
 singularity exec docker://scailfin/madgraph5-amc-nlo:latest /bin/bash
 ```
 
+This extra argument, `-B /uscms_data:/uscms_data`, is a symptom of being on LPC and may not be necessary for other places.
+
 Then to start MadGraph, we just do:
 ```bash
 mg5_aMC

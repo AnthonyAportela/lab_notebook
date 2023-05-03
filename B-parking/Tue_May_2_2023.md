@@ -54,7 +54,7 @@ I don't know if this is the only difference between the two backgrounds, or if t
 I think it would be really helpful to document these differences...
 
 
-![](Pasted%20image%2020230502133115.png)
+![](img/plot__sigera_jan2023__bkgera_apr2023__codeera_jan2023.png)
 
 But wait! 
 You may ask why the combine card limits matched that estimated in python.
