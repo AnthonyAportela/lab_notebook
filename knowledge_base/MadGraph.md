@@ -3,7 +3,7 @@ In LPC, all you need is a container.
 ```bash
 mkdir MadGraph
 cd MadGraph
-singularity exec docker://scailfin/madgraph5-amc-nlo:latest /bin/bash
+singularity exec -B /uscms_data:/uscms_data docker://scailfin/madgraph5-amc-nlo:latest /bin/bash
 ```
 
 This extra argument, `-B /uscms_data:/uscms_data`, is a symptom of being on LPC and may not be necessary for other places.

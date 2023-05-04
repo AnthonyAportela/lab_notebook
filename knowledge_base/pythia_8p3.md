@@ -1,4 +1,4 @@
-![](323CCA55-C29D-4B8B-9A8D-E8D552C46413.jpeg)
+![](knowledge_base/img/pythia.jpeg)
 
 [Examples](http://home.thep.lu.se/~leifg/tutorials/)
 
