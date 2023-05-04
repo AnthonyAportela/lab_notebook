@@ -171,6 +171,7 @@
   },
   "active": "ff25b39753a204b0",
   "lastOpenFiles": [
+    "Collider_physics/HW_3/HW_3_corrected.pdf",
     "Collider_physics/HW_3/HW_3.md",
     "Collider_physics/HW_3/HW_3_corrected.md",
     "knowledge_base/pythia_8p3.md",
@@ -215,7 +216,6 @@
     "knowledge_base/git_ssh_auth.md",
     "knowledge_base/parton_factorization_theorem.md",
     "knowledge_base/master_parton_xsec.md",
-    "knowledge_base/APx.md",
-    "knowledge_base/Cplusplus_cutflow_code.md"
+    "knowledge_base/APx.md"
   ]
 }
