@@ -159,7 +159,9 @@
   },
   "active": "2aee2337bc6df95c",
   "lastOpenFiles": [
+    "knowledge_base/git_ssh_auth.md",
     "Collider_physics/HW_4/HW_4.md",
+    "knowledge_base/Adding_ssh_key_for_secure_access_to_gitlab.md",
     "Collider_physics/HW_4/PHYS239_ProblemSet4.pdf",
     "Collider_physics/HW_3/HW_3_corrected.md",
     "Collider_physics/HW_4/img",
@@ -201,9 +203,7 @@
     "B-parking/Tue_Apr_18_2023.md",
     "FPGA_deployment/Fri_Apr_7_2023.md",
     "knowledge_base/ASICs.md",
-    "knowledge_base/git_ssh_auth.md",
     "knowledge_base/parton_factorization_theorem.md",
-    "knowledge_base/master_parton_xsec.md",
-    "knowledge_base/APx.md"
+    "knowledge_base/master_parton_xsec.md"
   ]
 }
