@@ -6,9 +6,9 @@ It useful to first define the momenta,
 
 $$
 \begin{align}
-p_{1} & = E[1,\phantom{-}\hat{p}] \\
+p_{1} & = E[1,\hat{p}] \\
 p_{2} & = E[1,-\hat{p}] \\
-p_{3} & = E[1,\phantom{-}\hat{p}^\prime] \\
+p_{3} & = E[1,\hat{p}^\prime] \\
 p_{4} & = E[1,-\hat{p}^\prime].
 \end{align}
 $$
@@ -50,9 +50,9 @@ The reason $s+t+u=0$ in the first part of the problem is because of momentum con
 $$
 \begin{align}
 s+t+u & = 2p_{1}p_{2} - 2p_{1}p_{3} - 2p_{1}p_{4} \\
-\phantom{s+t+u} & = 2p_{1}(p_{2} - p_{3} - p_{4}) \\
-\phantom{s+t+u} & = 2p_{1}p_{1} \\
-\phantom{s+t+u} & = 0
+     & = 2p_{1}(p_{2} - p_{3} - p_{4}) \\
+     & = 2p_{1}p_{1} \\
+     & = 0
 \end{align}
 $$
 
