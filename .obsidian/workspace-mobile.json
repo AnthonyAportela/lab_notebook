@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "139e64f5d4dbcade",
+        "id": "0a639d3072288ca6",
         "type": "tabs",
         "children": [
           {
-            "id": "a00a99fc6ade8e45",
+            "id": "9a312b0ce0f7c20d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge_base/pythia_8p3.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "knowledge_base/pythia_8p3.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "knowledge_base/pythia_8p3.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -121,9 +115,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "knowledge_base/pythia_8p3.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -140,11 +132,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a00a99fc6ade8e45",
+  "active": "9a312b0ce0f7c20d",
   "lastOpenFiles": [
+    "Collider_physics/lecture_11/lecture_11.md",
+    "Collider_physics/lecture_11/img",
+    "Collider_physics/lecture_11",
+    "knowledge_base/pythia_8p3.md",
+    "Collider_physics/HW_3/HW_3_corrected.pdf",
+    "Collider_physics/HW_3/HW_3_corrected.md",
     "Collider_physics/lecture_10/lecture_10.md",
     "knowledge_base/MadGraph.md",
-    "knowledge_base/pythia_8p3.md",
     "323CCA55-C29D-4B8B-9A8D-E8D552C46413.jpeg",
     "Collider_physics/lecture_10/img/5EFB4045-1F8A-486C-939B-78BED9D980C8.jpeg",
     "Collider_physics/lecture_10/img/C7810403-7A09-4C5D-9E3B-96CCF3D9C872.jpeg",
@@ -163,15 +160,12 @@
     "Collider_physics/HW_3/img/eeaee_MG_QED_feynman_diagrams/matrix_1.ps",
     "Collider_physics/HW_3/img/eeaee_MG_QED_feynman_diagrams/matrix_3.ps",
     "Collider_physics/HW_3/img/eeaee_MG_QED_feynman_diagrams/born.ps",
-    "Collider_physics/HW_3/img/eeaee_MG_QED_feynman_diagrams/matrix_2.ps",
     "Collider_physics/HW_3/HW_3.md",
     "knowledge_base/parton_factorization_theorem.md",
     "B-parking/Tue_Apr_11_2023.md",
     "knowledge_base/hls4ml.md",
     "B-parking/Fri_Apr_28_2023.md",
-    "Collider_physics/HW_3/main.tex",
     "B-parking/Fri_Apr_7_2023.md",
-    "Collider_physics/HW_3/aleph.pdf",
     "MadGraph.md",
     "FPGA_deployment/Russell_workflow.md",
     "B-parking/Tue_Apr_25_2023.md",
@@ -185,7 +179,6 @@
     "FPGA_deployment/Wed_Apr_19_2023.md",
     "B-parking/B-parking, Tues 11, 2023.md",
     "B-parking/B-parking, Fris 14, 2023.md",
-    "B-parking/B-parking, Fri Apr 7, 2023.md",
-    "knowledge base/qkeras.md"
+    "B-parking/B-parking, Fri Apr 7, 2023.md"
   ]
 }
