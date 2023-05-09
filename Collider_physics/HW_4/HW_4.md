@@ -128,7 +128,7 @@ Since $E>E^\prime$ and both energies are positive, it is trivial to show that $0
 To show that $0 < x < 1$, it is sufficient to show that,
 
 $$
-EE^\prime(1-\cos \theta_{\text{lab}})<m(E-E^\prime)
+EE^\prime (1-\cos \theta) < m(E-E^\prime)
 $$
 
 After this I don't know what to do.
