@@ -16,6 +16,10 @@ I personally copied the file to my directory in case it changes in the future so
 
 First, make sure to do add whatever you names your ssh key pairs for github and gitlab to the ssh client.
 ```sh
+eval "$(ssh-agent -s)"
+```
+
+```sh
 ssh-add ~/.ssh/github
 ```
 

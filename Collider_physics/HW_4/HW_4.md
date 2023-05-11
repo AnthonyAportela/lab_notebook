@@ -132,3 +132,9 @@ EE^\prime (1-\cos \theta) < m(E-E^\prime)
 $$
 
 After this I don't know what to do.
+
+
+
+# 3. 
+
+I ran out of time.
