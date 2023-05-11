@@ -38,7 +38,7 @@ conda install jupyterlab
 Finally, once that's done, just run 
 
 ```sh
-jupyterlab
+jupyter lab
 ```
 
 and a safari (or whatever you use) should open up.
