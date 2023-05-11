@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge_base/Conda_mac_install.md",
+                "file": "knowledge_base/graph_neural_networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5,
-    "collapsed": true
+    "width": 341.5
   },
   "right": {
     "id": "7f0896c98a1afd69",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge_base/Conda_mac_install.md",
+                "file": "knowledge_base/graph_neural_networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge_base/Conda_mac_install.md",
+                "file": "knowledge_base/graph_neural_networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge_base/Conda_mac_install.md"
+                "file": "knowledge_base/graph_neural_networks.md"
               }
             }
           },
@@ -177,10 +176,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8847e4e8c9f84c1f",
+  "active": "6c97abf1fb86c526",
   "lastOpenFiles": [
-    "knowledge_base/APx.md",
+    "knowledge_base/img/networkx_graph_example.png",
     "knowledge_base/Conda_mac_install.md",
+    "knowledge_base/graph_neural_networks.md",
+    "knowledge_base/APx.md",
     "knowledge_base/SeededCone_top_Deregionizer_APx.md",
     "knowledge_base/git_ssh_auth.md",
     "Collider_physics/HW_4/HW_4.md",
@@ -222,8 +223,6 @@
     "B-parking/Tue_Apr_11_2023.md",
     "B-parking/Fri_Apr_14_2023.md",
     "B-parking/Mon_Apr_17_2023.md",
-    "B-parking/Tue_Apr_18_2023.md",
-    "FPGA_deployment/Fri_Apr_7_2023.md",
-    "knowledge_base/ASICs.md"
+    "B-parking/Tue_Apr_18_2023.md"
   ]
 }
