@@ -130,8 +130,8 @@ The fragmentation function $D_{q}^h(z)$ is defined as the probability that a qua
 
 $$
 \begin{align}
-\sum_{h}\int _{0}^1 z D_{q}^h(z) \, dz  & = 1 \\
-\sum_{h}\int _{z_{min}}^1 D_{q}^h(z) \, dz  & = \sum_{h}n_{h}
+\sum_{h}\int_{0}^1 z D_{q}^h(z)~dz  & = 1 \\
+\sum_{h}\int_{z_{min}}^1 D_{q}^h(z)~dz  & = \sum_{h}n_{h}
 \end{align}
 $$
 
