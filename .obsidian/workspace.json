@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1b0a1e0a89a9ccb1",
+        "id": "258a545a5571aa30",
         "type": "tabs",
         "children": [
           {
-            "id": "b0a89cc138172c5a",
+            "id": "b4a0af200cdd242f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -165,10 +165,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b0a89cc138172c5a",
+  "active": "b4a0af200cdd242f",
   "lastOpenFiles": [
-    "Collider_physics/HW_5/PHYS239_ProblemSet5.pdf",
+    "Collider_physics/HW_4/HW_4.md",
+    "Collider_physics/HW_3/HW_3.pdf",
     "Collider_physics/HW_5/HW_5.md",
+    "Collider_physics/HW_5/PHYS239_ProblemSet5.pdf",
     "Collider_physics/HW_5/img",
     "Collider_physics/HW_5",
     "knowledge_base/SeededCone_top_Deregionizer_APx.md",
@@ -180,7 +182,6 @@
     "knowledge_base/img/networkx_graph_example.png",
     "knowledge_base/Conda_mac_install.md",
     "knowledge_base/git_ssh_auth.md",
-    "Collider_physics/HW_4/HW_4.md",
     "Collider_physics/HW_4/HW_4.pdf",
     "knowledge_base/Adding_ssh_key_for_secure_access_to_gitlab.md",
     "Collider_physics/HW_4/PHYS239_ProblemSet4.pdf",
@@ -199,8 +200,6 @@
     "Collider_physics/lecture_10/img/0477A64C-B207-41D0-8FA2-FE4985D7C176.jpeg",
     "Collider_physics/lecture_10/img/E2B875A4-1A70-45EE-8769-EED32CD213E0.jpeg",
     "Collider_physics/lecture_10/img",
-    "Collider_physics/lecture_10/Untitled",
-    "Untitled",
     "Collider_physics/lecture_10/lecture_10.md",
     "Collider_physics/lecture_10/Lecture_10_Wed_May_3_2023.md",
     "Collider_physics/Lecture_10_Wed_May_3_2023.md",
