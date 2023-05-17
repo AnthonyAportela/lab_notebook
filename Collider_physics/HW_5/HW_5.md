@@ -126,7 +126,7 @@ In order to solve this, I would need to have done the last problem.
 
 # 2. Hadronization: Fragmentation functions (20 points).
 
-The fragmentation function $D_{q}^h(z)$ is defined as the probability that a quark $q$ will hadronize to produce a hadron of species $h$ with energy fraction between $z$ and $z + dz$. These fragmentation functions must satisfy conservation of momentum and unitarity so that
+**The fragmentation function $D_{q}^h(z)$ is defined as the probability that a quark $q$ will hadronize to produce a hadron of species $h$ with energy fraction between $z$ and $z + dz$. These fragmentation functions must satisfy conservation of momentum and unitarity so that**
 
 $$
 \begin{align}
@@ -135,20 +135,90 @@ $$
 \end{align}
 $$
 
-where the sum is over all hadron species, $z_{min} = m_{h}/E_{q}$ with $m_{h}$ the hadron mass and $E_{q}$ the quark energy, and $n_{h}$ is the average number of hadrons of type $h$ produced by the fragmentation of the quark.
+**where the sum is over all hadron species, $z_{min} = m_{h}/E_{q}$ with $m_{h}$ the hadron mass and $E_{q}$ the quark energy, and $n_{h}$ is the average number of hadrons of type $h$ produced by the fragmentation of the quark.**
 
-Fragmentation functions are often parameterized as
+**Fragmentation functions are often parameterized as**
 
 $$
 D_{q}^h(z)=\mathcal{N}\frac{(1-z)^\alpha}{z}
 $$
 
-where $\alpha$ and $\mathcal{N}$ are constants.
+**where $\alpha$ and $\mathcal{N}$ are constants.**
 
 ## a. 
 
-Show that
+**Show that**
 
 $$
 \mathcal{N}=(\alpha+1)\braket{z} 
 $$
+
+**where $\braket{z}$ is the average fraction of the quark momentum carried by hadrons of type h after fragmentation.**
+
+Just plugging into unitarity
+
+$$
+\begin{align}
+\sum_{h}\int_{0}^1 \mathcal{N}(1-z)^\alpha ~dz  & = 1 \\
+\frac{1}{\braket{z}}\frac{\mathcal{N}}{\alpha+1} & = 1 \\
+\mathcal{N} & = (\alpha+1)\braket{z} 
+\end{align}
+$$
+
+## b.
+
+**Show that this formalism reproduces the previous result**
+
+$$
+n_{h}\propto \log\left( \frac{E_{CM}}{m_{h}} \right)~.
+$$
+
+**for the process $e^+e^- \to 2$ jets.**
+
+This will involved momentum conservation.
+
+# 3. Hadronization in $e^+e^- \to$ hadrons with `PYTHIA8.3` (30 points).
+
+## a.
+
+Generate 10,000 events in `PYTHIA8.3` $e^+e^- \to$ hadrons events on the Z pole.
+Hint: In Python, this should look like the following
+
+This is the script I tried but kept getting errors for:
+
+```python
+import pythia8
+
+# Set up Pythia instance
+pythia = pythia8.Pythia()
+
+# Configure Pythia to generate e+e- to hadrons
+pythia.readString("PDF:lepton = off")
+pythia.readString("WeakSingleBoson:ffbar2gmZ = on")
+pythia.readString("23:onMode = off")
+pythia.readString("23:onIfAny = 1 2 3 4 5")
+pythia.readString("Beams:idA =  11")
+pythia.readString("Beams:idB = -11")
+
+mZ = pythia.particleData.m0(23)
+pythia.settings.parm("Beams:eCM", mZ)
+
+# Initialize Pythia
+pythia.init()
+
+# Number of events to generate
+nEvents = 10000
+
+# Event loop
+for iEvent in range(nEvents):
+    # Generate event
+    pythia.next()
+
+pythia.stat("Beams:idA")
+pythia.stat("Beams:idB")
+pythia.stat("Beams:eCM")
+pythia.stat("23:onIfAny")
+pythia.stat("ParticleData:initialize")
+
+pythia.stat()
+```
