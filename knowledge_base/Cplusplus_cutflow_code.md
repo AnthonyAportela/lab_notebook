@@ -49,5 +49,23 @@ bash subJob.sh
 A useful command is `condor_q` so see the status of a job.
 
 
+# To change/add histograms
 
+There are 5 places to add the new histogram.
+- Four of them in the `app/analyzer_histograms.C` file
+- One in the `include/analyzer_histograms.h` file
+
+To run plotter
+
+
+
+
+Run analyzer twice
+First time
+* two regions, OOT reg and !OOT (test) reg
+	* for both, no selection on clstEta
+Second time, look for good eta cut candidate
+* two regions, OOT reg, and OOT (test) 
+	* one with clstEta
+	* other with !clstEta
 
