@@ -52,6 +52,10 @@ rm -f usercert.pem
 rm -f userkey.pem
 openssl pkcs12 -in myCertificate.p12 -clcerts -nokeys -out usercert.pem
 openssl pkcs12 -in myCertificate.p12 -nocerts -out userkey.pem
-chmod 400 userkey.pem
-chmod 400 usercert.pem
+chmod 600 userkey.pem
+chmod 600 usercert.pem
+```
+
+```sh
+voms-proxy-init --rfc --voms cms -valid 192:00
 ```
