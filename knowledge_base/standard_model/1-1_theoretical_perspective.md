@@ -39,3 +39,10 @@ So we don't know!
 
 
 
+$$
+\mathcal{L} = -\frac{1}{4}F_{\mu\nu}^a F^{a,\mu\nu} + \sum_i(D_\mu \phi_i)^\dagger (D^\mu \phi_i) - \sum_f \bar{\psi}_f i\gamma^\mu D_\mu \psi_f - \sum_i \bar{\chi}_i i\gamma^\mu D_\mu \chi_i + h.c.
+$$
+
+$$
+\mathcal{L}_{Yukawa} = -\sum_{f}\lambda_f \bar{f}_L \phi f_R + h.c.
+$$
