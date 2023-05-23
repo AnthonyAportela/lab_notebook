@@ -47,3 +47,11 @@ Then move `myCertificate.p12` from where ever it was downloaded to your new `.gl
 mv /path/to/cert/myCertificate.p12 ~/.globus
 ```
 
+```sh
+rm -f usercert.pem
+rm -f userkey.pem
+openssl pkcs12 -in myCertificate.p12 -clcerts -nokeys -out usercert.pem
+openssl pkcs12 -in myCertificate.p12 -nocerts -out userkey.pem
+chmod 400 userkey.pem
+chmod 400 usercert.pem
+```
