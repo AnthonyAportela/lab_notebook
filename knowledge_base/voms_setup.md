@@ -40,3 +40,10 @@ mkdir .globus  # make a hidden globus folder
 cd ~/.globus #  move into the hidden globus folder
 ```
 
+
+Then move `myCertificate.p12` from where ever it was downloaded to your new `.globus` directory,
+
+```sh
+mv /path/to/cert/myCertificate.p12 ~/.globus
+```
+
