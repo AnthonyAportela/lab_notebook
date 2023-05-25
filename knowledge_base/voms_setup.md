@@ -22,7 +22,7 @@ Put in the password of your choice and click "Get Grid User certificate".
 Once that's done, you should get to the following page.
 If the certificates have not already started downloading, go ahead and click "Download certificate".
 
-![](AD478269-7C84-42DD-94B5-C5DD990C587A.jpeg)
+![](img/grid_cert_download.jpeg)
 
 # 2. Move to host
 

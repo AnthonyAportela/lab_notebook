@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "258a545a5571aa30",
+        "id": "1e9a7b18b519284f",
         "type": "tabs",
         "children": [
           {
-            "id": "b4a0af200cdd242f",
+            "id": "bc3c27911792ca08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge_base/Cplusplus_cutflow_code.md",
+                "file": "B-parking/Thur_May_25_2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5,
-    "collapsed": true
+    "width": 341.5
   },
   "right": {
     "id": "7f0896c98a1afd69",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge_base/Cplusplus_cutflow_code.md",
+                "file": "B-parking/Thur_May_25_2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge_base/Cplusplus_cutflow_code.md",
+                "file": "B-parking/Thur_May_25_2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge_base/Cplusplus_cutflow_code.md"
+                "file": "B-parking/Thur_May_25_2023.md"
               }
             }
           },
@@ -165,8 +164,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b4a0af200cdd242f",
+  "active": "bc3c27911792ca08",
   "lastOpenFiles": [
+    "knowledge_base/SeededCone_top_Deregionizer_APx.md",
+    "B-parking/Thur_May_25_2023.md",
+    "Untitled.md",
+    "knowledge_base/APx.md",
+    "knowledge_base/MadGraph.md",
+    "Collider_physics/HW_6/HW_6.md",
+    "Collider_physics/HW_6/PHYS239_ProblemSet6.pdf",
+    "knowledge_base/Cplusplus_cutflow_code.md",
+    "knowledge_base/img/grid_cert_download.jpeg",
+    "grid_cert_download.jpeg",
+    "Collider_physics/HW_6",
     "AD478269-7C84-42DD-94B5-C5DD990C587A.jpeg",
     "E1CE08FE-0B57-4CC3-8668-600C34297602.jpeg",
     "knowledge_base/img/grid_cert_link.jpeg",
@@ -192,26 +202,15 @@
     "Collider_physics/HW_3/HW_3.pdf",
     "Collider_physics/HW_5/PHYS239_ProblemSet5.pdf",
     "Collider_physics/HW_5/img",
-    "Collider_physics/HW_5",
-    "knowledge_base/SeededCone_top_Deregionizer_APx.md",
     "knowledge_base/graph_neural_networks.md",
-    "knowledge_base/img/gnn_tasks.png",
-    "knowledge_base/APx.md",
-    "knowledge_base/img/gnn_tasks.png",
-    "Pasted image 20230511174009.png",
     "knowledge_base/Conda_mac_install.md",
     "knowledge_base/git_ssh_auth.md",
-    "Collider_physics/HW_4/HW_4.pdf",
     "knowledge_base/Adding_ssh_key_for_secure_access_to_gitlab.md",
     "Collider_physics/HW_3/HW_3_corrected.md",
     "Collider_physics/HW_3/HW_3.md",
     "knowledge_base/pythia_8p3.md",
-    "knowledge_base/MadGraph.md",
     "B-parking/Tue_May_2_2023.md",
     "Collider_physics/lecture_10/lecture_10.md",
-    "Collider_physics/lecture_10/Lecture_10_Wed_May_3_2023.md",
-    "Collider_physics/Lecture_10_Wed_May_3_2023.md",
-    "Collider_physics/Lecture_10_wed_may_3_2023.md",
-    "Collider_physics/Untitled.md"
+    "Collider_physics/lecture_10/Lecture_10_Wed_May_3_2023.md"
   ]
 }
