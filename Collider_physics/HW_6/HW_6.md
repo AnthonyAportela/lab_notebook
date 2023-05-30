@@ -92,21 +92,21 @@ Which distribution is wider?**
 
 If these were unit normalized the madgraph one would be wider.
 
-![](Collider_physics/HW_6/img/muonmasshist.png.png)
+![](img/muonmasshist.png.png)
 
 ## c.
 
 **The generator-level distribution approximately follows a Breit-Wigner (or Cauchy) distribution.
 Fit the generator-level data to this distribution and extract the pole mass and decay width of the Z boson.**
 
-![](Collider_physics/HW_6/img/gen_level_fit.png)
+![](img/gen_level_fit.png)
 Decay width seems wrong.
 
 ## d.
 **The reconstruction-level distribution should approximately follow the convolution of a Breit-Wigner and a Gaussian, known as a Voigtian. 
 Fit the reconstructor-level data to this distribution and extract the pole mass, decay width of the Z boson, and the overall effective mass resolution.**
 
-![](Collider_physics/HW_6/img/reco_level_fit.png)
+![](img/reco_level_fit.png)
 
 **Does it make sense given the formulas?**
 
