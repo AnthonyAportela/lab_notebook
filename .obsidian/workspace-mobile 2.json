@@ -11,11 +11,9 @@
             "id": "844dea4632826f14",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Collider_physics/HW_6/HW_6.md",
-                "mode": "source",
-                "source": false
+                "file": "F8AFFAE1-AAE7-4315-9BD7-D3A3B75ED166.png"
               }
             }
           }
@@ -93,7 +91,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Collider_physics/HW_6/HW_6.md",
+            "file": "F8AFFAE1-AAE7-4315-9BD7-D3A3B75ED166.png",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Collider_physics/HW_6/HW_6.md",
+            "file": "F8AFFAE1-AAE7-4315-9BD7-D3A3B75ED166.png",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +120,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Collider_physics/HW_6/HW_6.md"
+            "file": "F8AFFAE1-AAE7-4315-9BD7-D3A3B75ED166.png"
           }
         }
       }
@@ -142,9 +140,6 @@
   },
   "active": "844dea4632826f14",
   "lastOpenFiles": [
-    "Collider_physics/HW_6/img/muonmasshist.png.png",
-    "Collider_physics/HW_6/HW_6.md",
-    "Collider_physics/HW_6/img/muonmasshist.png",
     "B-parking/img/oct2022plots.png",
     "B-parking/presentations/Limits update_05_03_23.pdf",
     "Collider_physics/HW_3/aleph.pdf",
@@ -158,12 +153,16 @@
     "Collider_physics/HW_3/img/AFB_eemm_aleph.png",
     "Collider_physics/HW_3/img/eemm.png",
     "Collider_physics/HW_3/PHYS239_ProblemSet3.pdf",
+    "Collider_physics/HW_6/HW_6.md",
     "B-parking/img/plot__sigera_jan2023__bkgera_apr2023__codeera_jan2023.png",
     "Collider_physics/HW_3/HW_3.md",
     "Collider_physics/HW_3/img/eeee_scattering.png",
     "Collider_physics/HW_3/appendix.pdf",
+    "F8AFFAE1-AAE7-4315-9BD7-D3A3B75ED166.png",
     "knowledge_base/img/gnn_tasks.png",
     "B-parking/img/fri_apr_7_2023_plot1.png",
+    "Collider_physics/lecture_10/img/C7810403-7A09-4C5D-9E3B-96CCF3D9C872.jpeg",
+    "B-parking/img/mon_apr_10_2023_plot2.png",
     "B-parking/Tue_Apr_11_2023.md",
     "knowledge_base/hls4ml.md",
     "B-parking/Fri_Apr_7_2023.md",

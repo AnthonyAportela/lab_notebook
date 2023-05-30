@@ -26,11 +26,20 @@ If the certificates have not already started downloading, go ahead and click "Do
 
 # 2. Move to host
 
-If you are only using this on your private compute and not some `ssh` host, skip the following step
+If you are only using this on your private compute and not some `ssh` host, skip the following two steps.
 
+```SH
+scp Downloads/myCertificate.p12 aaportel@uaf-10.t2.ucsd.edu:~
 ```
-TODO
+
+Replace `aaportel@uaf-10.t2.ucsd.edu` with whatever host you're doing this for.
+Then `ssh` into that host.
+
+```sh
+ssh aaportel@uaf-10.t2.ucsd.edu
 ```
+
+**This is where you wanna skip to.**
 
 Make a hidden `.globus` folder in the home directory,
 
