@@ -79,7 +79,7 @@ Finally, after all the kicking and screaming, I have finally produces the requir
 Note that there are three separate |η| bins.
 Plot all three on the same canvas from pT = 1 to 100 GeV.**
 
-![](Collider_physics/HW_6/img/pt_res_muons.png)
+![](img/pt_res_muons.png)
 
 **What is the approximate range of momentum resolution values?**
 
