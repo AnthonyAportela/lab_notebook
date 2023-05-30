@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5,
-    "collapsed": true
+    "width": 341.5
   },
   "right": {
     "id": "7f0896c98a1afd69",
@@ -167,8 +166,9 @@
   },
   "active": "bc3c27911792ca08",
   "lastOpenFiles": [
-    "Pasted image 20230530130721.png",
-    "Pasted image 20230530130659.png",
+    "Collider_physics/HW_6/img/sh_lagrangian.png",
+    "Collider_physics/HW_6/img/diagram.png",
+    "Collider_physics/HW_6/HW_6.md",
     "Collider_physics/HW_6/img/flavor_change.png",
     "Collider_physics/HW_6/img/reco_level_fit.png",
     "Collider_physics/HW_6/img/gen_level_fit.png",
@@ -177,7 +177,6 @@
     "35B51DF1-90A7-4D90-9CD2-F46127714516.png",
     "Collider_physics/HW_6/img/muonmasshist.png",
     "muonmasshist.png",
-    "F8AFFAE1-AAE7-4315-9BD7-D3A3B75ED166.png",
     "Collider_physics/HW_6/img",
     "Collider_physics/HW_6/Untitled",
     "B-parking/Thur_May_25_2023.md",
@@ -186,7 +185,6 @@
     "knowledge_base/APx.md",
     "Untitled.md",
     "knowledge_base/MadGraph.md",
-    "Collider_physics/HW_6/HW_6.md",
     "Collider_physics/HW_6/PHYS239_ProblemSet6.pdf",
     "knowledge_base/Cplusplus_cutflow_code.md",
     "Collider_physics/HW_6",

@@ -203,7 +203,7 @@ These LLPs, which have low masses (less than 10 GeV), have the potential to prov
 In the context of the present study, the focus lies specifically on flavor-changing decays.
 More precisely, we investigate the flavor-changing decay process: $B\to \phi K$, where $\phi$ denotes the LLP.
 
-![](Collider_physics/HW_6/img/flavor_change.png)
+![](img/flavor_change.png)
 
 The production of such flavor-changing decays primarily occurs via the away-side $B$ meson.
 Subsequently, the LLP undergoes decay, resulting in the generation of a muon system shower, which serves as the experimental signature for our investigation.
@@ -213,9 +213,9 @@ By scrutinizing the properties and characteristics of this muon system shower, w
 
 We plan to generate and shower the following model in pythia, (where $\lambda_{HS}=0$)
 
-![](Pasted%20image%2020230530130721.png)
+![](img/sh_lagrangian.png)
 
-![](Pasted%20image%2020230530130659.png)
+![](img/diagram.png)
 
 then use a modified version of Delphes to simulate interactions in the detector which includes displaces showers.
 
