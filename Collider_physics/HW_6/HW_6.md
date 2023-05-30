@@ -29,7 +29,7 @@ This was a nightmare.
 I was FINALY able to run madgraph, install pythia, and compile delphes on lxplus by manually installing madgraph.
 
 ```sh
-cd ~/nobackup
+cd /eos/user/a/aaportel
 mkir madgraph
 wget https://launchpad.net/mg5amcnlo/3.0/3.5.x/+download/MG5_aMC_v3.5.0.tar.gz
 tar -xf MG5_aMC_v3.5.0.tar.gz
@@ -72,6 +72,8 @@ Then we run
 ```
 
 Finally, after all the kicking and screaming, I have finally produces the required root file, which we should be able to find in `/drell-yan/Events/run_01`.
+
+# BEGIN ANSWERS
 
 ## a. 
 
