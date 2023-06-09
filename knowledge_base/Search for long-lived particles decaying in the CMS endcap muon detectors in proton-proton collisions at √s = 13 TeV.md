@@ -1,4 +1,4 @@
-Summarized from ![EXO-20-015](knowledge_base/documents/EXO-20-015-paper.pdf)
+Summarized from ![EXO-20-015](/knowledge_base/documents/EXO-20-015-paper.pdf)
 
 ### Abstract:
 - A search for long-lived particles (LLPs) produced in decays of standard model (SM) Higgs bosons is presented.
@@ -122,7 +122,7 @@ Summarized from ![EXO-20-015](knowledge_base/documents/EXO-20-015-paper.pdf)
 - The barrel and endcap muon stations are depicted as black boxes and labeled with their station names, illustrating the geometry of the muon detectors.
 - Regions occupied by the steel return yoke are shaded in gray.
 
-![](knowledge_base/img/EXO-20-015_fig1.jpeg)
+![](/knowledge_base/img/EXO-20-015_fig1.jpeg)
 
 ### Discrimination between signal and background:
 - The number of hits in the cluster ($N_{hits}$) and the azimuthal angle between the cluster location and the missing transverse momentum ($\Delta \phi_{c}$) are used for the final discrimination between signal and background.
@@ -146,7 +146,7 @@ Summarized from ![EXO-20-015](knowledge_base/documents/EXO-20-015-paper.pdf)
 - The Nhits distribution includes only events in bins C and D, while the ∆φc distribution includes only events in bins A and D.
 - The last bin in the Nhits distributions includes overflow events.
 
-![](knowledge_base/img/EXO-20-015_fig2.jpeg)
+![](/knowledge_base/img/EXO-20-015_fig2.jpeg)
 
 ### Background estimation and validation:
 - To account for a potential signal contribution in bins A, B, and C, a binned maximum likelihood fit is performed simultaneously in the four bins, with a common signal strength parameter scaling the signal yields.
@@ -169,7 +169,7 @@ Summarized from ![EXO-20-015](knowledge_base/documents/EXO-20-015-paper.pdf)
 - Figure 3 shows the 95% confidence level (CL) expected (dotted curves) and observed (solid curves) upper limits on the branching fraction B(H → SS) as functions of cτ for the S → dd (left) and S → τ+τ− (right) decay modes.
 - The exclusion limits are depicted for four different mass hypotheses: 7, 15, 40, and 55 GeV.
 
-![](knowledge_base/img/EXO-20-015_fig3.jpeg)
+![](/knowledge_base/img/EXO-20-015_fig3.jpeg)
 
 ### Summary:
 - The CMS experiment used proton-proton collision data at √s = 13 TeV recorded from 2016 to 2018, with an integrated luminosity of 137 fb−1.
