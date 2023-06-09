@@ -1,15 +1,9 @@
 A drop-in replacement for `conda` which is a cross-platform package manager. Docs can be found [here](https://mamba.readthedocs.io/en/latest/)
 ## How to install on linux
 
-Install Miniconda
+If installing on lxplus:
+
 ```bash
-wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -O miniconda.sh
-bash miniconda.sh -b -p $HOME/miniconda
-rm miniconda.sh
-echo 'export PATH="$HOME/miniconda/bin:$PATH"' >> ~/.bashrc
-source ~/.bashrc
-```
-Install Mamba
-```bash
-conda install -c conda-forge mamba
+curl -L -O "https://github.com/conda-forge/miniforge/releases/latest/download/Mambaforge-$(uname)-$(uname -m).sh"
+bash Mambaforge-$(uname)-$(uname -m).sh
 ```

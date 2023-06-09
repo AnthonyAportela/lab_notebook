@@ -13,13 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Collider_physics/HW_6/HW_6.md",
+                "file": "knowledge_base/voms_setup.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "728c7d876e904bd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge_base/pythia_8p3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57236e71ba83e639",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collider_physics/HW_6/HW_6.md",
+                "file": "knowledge_base/voms_setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collider_physics/HW_6/HW_6.md",
+                "file": "knowledge_base/voms_setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collider_physics/HW_6/HW_6.md"
+                "file": "knowledge_base/voms_setup.md"
               }
             }
           },
@@ -165,12 +188,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bc3c27911792ca08",
+  "active": "57236e71ba83e639",
   "lastOpenFiles": [
+    "knowledge_base/my_research.md",
+    "knowledge_base/voms_setup.md",
+    "knowledge_base/hepmc2.md",
+    "Collider_physics/HW_6/HW_6.md",
+    "knowledge_base/MadGraph.md",
+    "knowledge_base/Adding_ssh_key_for_secure_access_to_gitlab.md",
+    "knowledge_base/pythia_8p3.md",
+    "knowledge_base/Cplusplus_cutflow_code.md",
+    "knowledge_base/mamba.md",
+    "B-parking/Fri_Apr_28_2023.md",
+    "B-parking/Mon_Apr_17_2023.md",
+    "knowledge_base/img/networkx_graph_example.png",
     "Collider_physics/HW_6/HW_6.pdf",
     "Collider_physics/HW_6/img/sh_lagrangian.png",
     "Collider_physics/HW_6/img/diagram.png",
-    "Collider_physics/HW_6/HW_6.md",
     "Collider_physics/HW_6/img/flavor_change.png",
     "Collider_physics/HW_6/img/reco_level_fit.png",
     "Collider_physics/HW_6/img/gen_level_fit.png",
@@ -178,19 +212,13 @@
     "muonmasshist.png.png",
     "35B51DF1-90A7-4D90-9CD2-F46127714516.png",
     "Collider_physics/HW_6/img/muonmasshist.png",
-    "muonmasshist.png",
     "Collider_physics/HW_6/img",
     "Collider_physics/HW_6/Untitled",
     "B-parking/Thur_May_25_2023.md",
     "knowledge_base/SeededCone_top_Deregionizer_APx.md",
-    "knowledge_base/voms_setup.md",
     "knowledge_base/APx.md",
-    "Untitled.md",
-    "knowledge_base/MadGraph.md",
     "Collider_physics/HW_6/PHYS239_ProblemSet6.pdf",
-    "knowledge_base/Cplusplus_cutflow_code.md",
     "Collider_physics/HW_6",
-    "knowledge_base/Untitled.md",
     "knowledge_base/the_standard_model.md",
     "knowledge_base/the_standard_model.txt",
     "Collider_physics/HW_5/HW_5_sol.pdf",
@@ -203,15 +231,10 @@
     "Collider_physics/HW_5/HW_5.md",
     "Collider_physics/HW_5/HW_5.pdf",
     "Collider_physics/HW_4/HW_4.md",
-    "Collider_physics/HW_3/HW_3.pdf",
     "knowledge_base/graph_neural_networks.md",
     "knowledge_base/Conda_mac_install.md",
     "knowledge_base/git_ssh_auth.md",
-    "knowledge_base/Adding_ssh_key_for_secure_access_to_gitlab.md",
     "Collider_physics/HW_3/HW_3_corrected.md",
-    "Collider_physics/HW_3/HW_3.md",
-    "knowledge_base/pythia_8p3.md",
-    "B-parking/Tue_May_2_2023.md",
-    "Collider_physics/lecture_10/lecture_10.md"
+    "Collider_physics/HW_3/HW_3.md"
   ]
 }

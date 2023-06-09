@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Collider_physics/HW_6/HW_6.md",
+                "file": "knowledge_base/Search for long-lived particles decaying in the CMS endcap muon detectors in proton-proton collisions at √s = 13 TeV.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Collider_physics/HW_6/HW_6.md",
+            "file": "knowledge_base/Search for long-lived particles decaying in the CMS endcap muon detectors in proton-proton collisions at √s = 13 TeV.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Collider_physics/HW_6/HW_6.md",
+            "file": "knowledge_base/Search for long-lived particles decaying in the CMS endcap muon detectors in proton-proton collisions at √s = 13 TeV.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Collider_physics/HW_6/HW_6.md"
+            "file": "knowledge_base/Search for long-lived particles decaying in the CMS endcap muon detectors in proton-proton collisions at √s = 13 TeV.md"
           }
         }
       }
@@ -142,50 +142,51 @@
   },
   "active": "844dea4632826f14",
   "lastOpenFiles": [
-    "Collider_physics/HW_6/img/muonmasshist.png.png",
+    "knowledge_base/img/EXO-20-015_fig3.jpeg",
+    "knowledge_base/img/EXO-20-015_fig1.jpeg",
+    "knowledge_base/Search for long-lived particles decaying in the CMS endcap muon detectors in proton-proton collisions at √s = 13 TeV.md",
+    "knowledge_base/img/EXO-20-015_fig2.jpeg",
+    "knowledge_base/documents",
+    "knowledge_base/documents/EXO-20-015-paper.pdf",
+    "knowledge_base/hepmc2.md",
+    "knowledge_base/MadGraph.md",
+    "knowledge_base/pythia_8p3.md",
+    "Collider_physics/HW_5/HW_5_sol.pdf",
     "Collider_physics/HW_6/HW_6.md",
-    "Collider_physics/HW_6/img/muonmasshist.png",
     "B-parking/img/oct2022plots.png",
-    "B-parking/presentations/Limits update_05_03_23.pdf",
-    "Collider_physics/HW_3/aleph.pdf",
-    "Collider_physics/HW_3/main.tex",
-    "Collider_physics/HW_3/cms_unsrt.bst",
-    "Collider_physics/HW_3/img/xsec_eemm_aleph.png",
-    "Collider_physics/HW_3/img/eeaee_MG_QED_feynman_diagrams/matrix_1.ps",
-    "Collider_physics/HW_3/img/eeaee_MG_QED_feynman_diagrams/matrix_3.ps",
-    "Collider_physics/HW_3/img/eeaee_MG_QED_feynman_diagrams/born.ps",
-    "Collider_physics/HW_3/img/eeaee_MG_QED_feynman_diagrams/matrix_2.ps",
-    "Collider_physics/HW_3/img/AFB_eemm_aleph.png",
-    "Collider_physics/HW_3/img/eemm.png",
-    "Collider_physics/HW_3/PHYS239_ProblemSet3.pdf",
-    "B-parking/img/plot__sigera_jan2023__bkgera_apr2023__codeera_jan2023.png",
-    "Collider_physics/HW_3/HW_3.md",
-    "Collider_physics/HW_3/img/eeee_scattering.png",
-    "Collider_physics/HW_3/appendix.pdf",
+    "Collider_physics/HW_6/PHYS239_ProblemSet6.pdf",
+    "knowledge_base/img/grid_cert_download.jpeg",
+    "knowledge_base/img/grid_cert_link.jpeg",
     "knowledge_base/img/gnn_tasks.png",
+    "Collider_physics/HW_3/HW_3.pdf",
     "B-parking/img/fri_apr_7_2023_plot1.png",
+    "Collider_physics/HW_6/img/muonmasshist.png",
+    "Collider_physics/HW_6/img/flavor_change.png",
+    "Collider_physics/HW_5/HW_5.pdf",
+    "Collider_physics/HW_6/img/diagram.png",
+    "Collider_physics/HW_4/PHYS239_ProblemSet4.pdf",
+    "B-parking/presentations/Limits update_05_03_23.pdf",
     "B-parking/Tue_Apr_11_2023.md",
     "knowledge_base/hls4ml.md",
+    "Collider_physics/HW_3/main.tex",
+    "Collider_physics/HW_3/cms_unsrt.bst",
+    "Collider_physics/HW_5/HW_5_sol.md",
     "B-parking/Fri_Apr_7_2023.md",
-    "Collider_physics/HW_5/HW_5.md",
+    "Collider_physics/HW_3/HW_3.md",
     "Collider_physics/HW_3/HW_3_corrected.md",
+    "Collider_physics/HW_5/HW_5.md",
+    "knowledge_base/git_ssh_auth.md",
     "knowledge_base/voms_setup.md",
     "B-parking/Thur_May_25_2023.md",
-    "Collider_physics/HW_5/HW_5_sol.md",
     "knowledge_base/standard_model/1-1_theoretical_perspective.md",
-    "knowledge_base/MadGraph.md",
-    "knowledge_base/git_ssh_auth.md",
     "knowledge_base/Adding_ssh_key_for_secure_access_to_gitlab.md",
     "knowledge_base/standard_model/1_Introduction.md",
     "Collider_physics/HW_4/HW_4.md",
     "knowledge_base/Conda_mac_install.md",
     "knowledge_base/SeededCone_top_Deregionizer_APx.md",
     "Collider_physics/lecture_11/lecture_11.md",
-    "knowledge_base/pythia_8p3.md",
     "Collider_physics/lecture_10/lecture_10.md",
     "B-parking/Tue_May_2_2023.md",
-    "knowledge_base/parton_factorization_theorem.md",
-    "B-parking/Fri_Apr_28_2023.md",
-    "MadGraph.md"
+    "knowledge_base/parton_factorization_theorem.md"
   ]
 }
