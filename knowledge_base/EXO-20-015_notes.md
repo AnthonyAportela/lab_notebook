@@ -1,5 +1,7 @@
 Summarized from ![EXO-20-015](/knowledge_base/documents/EXO-20-015-paper.pdf)
 
+# Search for long-lived particles decaying in the CMS endcap muon detectors in proton-proton collisions at √s = 13 TeV
+
 ### Abstract:
 - A search for long-lived particles (LLPs) produced in decays of standard model (SM) Higgs bosons is presented.
 - Data sample: 137 fb−1 of proton-proton collisions at √s = 13 TeV, recorded at the LHC in 2016–2018.

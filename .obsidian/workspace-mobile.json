@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge_base/Search for long-lived particles decaying in the CMS endcap muon detectors in proton-proton collisions at √s = 13 TeV.md",
+                "file": "knowledge_base/EXO-20-015_notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "knowledge_base/Search for long-lived particles decaying in the CMS endcap muon detectors in proton-proton collisions at √s = 13 TeV.md",
+            "file": "knowledge_base/EXO-20-015_notes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "knowledge_base/Search for long-lived particles decaying in the CMS endcap muon detectors in proton-proton collisions at √s = 13 TeV.md",
+            "file": "knowledge_base/EXO-20-015_notes.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "knowledge_base/Search for long-lived particles decaying in the CMS endcap muon detectors in proton-proton collisions at √s = 13 TeV.md"
+            "file": "knowledge_base/EXO-20-015_notes.md"
           }
         }
       }
@@ -144,7 +144,7 @@
   "lastOpenFiles": [
     "knowledge_base/img/EXO-20-015_fig3.jpeg",
     "knowledge_base/img/EXO-20-015_fig1.jpeg",
-    "knowledge_base/Search for long-lived particles decaying in the CMS endcap muon detectors in proton-proton collisions at √s = 13 TeV.md",
+    "knowledge_base/EXO-20-015_notes.md",
     "knowledge_base/img/EXO-20-015_fig2.jpeg",
     "knowledge_base/documents",
     "knowledge_base/documents/EXO-20-015-paper.pdf",
