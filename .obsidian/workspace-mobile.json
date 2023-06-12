@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "844dea4632826f14",
+            "id": "354c582eabbcf1a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0beeb9bac3a2cc44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge_base/codex-b_expression_of_interest.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b503720b70dd1b8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge_base/advancement_notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +118,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "knowledge_base/EXO-20-015_notes.md",
+            "file": "knowledge_base/advancement_notes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +135,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "knowledge_base/EXO-20-015_notes.md",
+            "file": "knowledge_base/advancement_notes.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +147,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "knowledge_base/EXO-20-015_notes.md"
+            "file": "knowledge_base/advancement_notes.md"
           }
         }
       }
@@ -140,12 +165,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "844dea4632826f14",
+  "active": "b503720b70dd1b8a",
   "lastOpenFiles": [
-    "knowledge_base/img/EXO-20-015_fig3.jpeg",
-    "knowledge_base/img/EXO-20-015_fig1.jpeg",
+    "knowledge_base/codex-b_expression_of_interest.md",
+    "knowledge_base/advancement_notes.md",
+    "knowledge_base/EXO-21-008_notes.md",
     "knowledge_base/EXO-20-015_notes.md",
-    "knowledge_base/img/EXO-20-015_fig2.jpeg",
+    "CodexB_interest.pdf",
+    "EXO-21-008_tbl1.jpeg",
+    "EXO-21-008_tbl2.jpeg",
+    "EXO-21-008_fig9.jpeg",
+    "EXO-21-008_fig8.jpeg",
+    "EXO-21-008_fig7.jpeg",
+    "EXO-21-008_fig6.jpeg",
+    "EXO-21-008_fig5.jpeg",
+    "EXO-21-008_auxfig1.jpeg",
+    "knowledge_base/EXO-20-015_notes 2.md",
+    "knowledge_base/EXO-20-015_notes 1.md",
+    "EXO-21-008_fig4.jpeg",
+    "EXO-21-008_fig3.jpeg",
+    "knowledge_base/img/EXO-21-008_fig.jpeg.md",
+    "knowledge_base/img/EXO-21-008_fig1.md",
+    "knowledge_base/documents/EXO-21-008-paper.pdf",
     "knowledge_base/documents",
     "knowledge_base/documents/EXO-20-015-paper.pdf",
     "knowledge_base/hepmc2.md",
@@ -153,23 +194,13 @@
     "knowledge_base/pythia_8p3.md",
     "Collider_physics/HW_5/HW_5_sol.pdf",
     "Collider_physics/HW_6/HW_6.md",
-    "B-parking/img/oct2022plots.png",
     "Collider_physics/HW_6/PHYS239_ProblemSet6.pdf",
-    "knowledge_base/img/grid_cert_download.jpeg",
-    "knowledge_base/img/grid_cert_link.jpeg",
-    "knowledge_base/img/gnn_tasks.png",
     "Collider_physics/HW_3/HW_3.pdf",
-    "B-parking/img/fri_apr_7_2023_plot1.png",
-    "Collider_physics/HW_6/img/muonmasshist.png",
-    "Collider_physics/HW_6/img/flavor_change.png",
     "Collider_physics/HW_5/HW_5.pdf",
-    "Collider_physics/HW_6/img/diagram.png",
     "Collider_physics/HW_4/PHYS239_ProblemSet4.pdf",
     "B-parking/presentations/Limits update_05_03_23.pdf",
     "B-parking/Tue_Apr_11_2023.md",
     "knowledge_base/hls4ml.md",
-    "Collider_physics/HW_3/main.tex",
-    "Collider_physics/HW_3/cms_unsrt.bst",
     "Collider_physics/HW_5/HW_5_sol.md",
     "B-parking/Fri_Apr_7_2023.md",
     "Collider_physics/HW_3/HW_3.md",
@@ -181,12 +212,6 @@
     "knowledge_base/standard_model/1-1_theoretical_perspective.md",
     "knowledge_base/Adding_ssh_key_for_secure_access_to_gitlab.md",
     "knowledge_base/standard_model/1_Introduction.md",
-    "Collider_physics/HW_4/HW_4.md",
-    "knowledge_base/Conda_mac_install.md",
-    "knowledge_base/SeededCone_top_Deregionizer_APx.md",
-    "Collider_physics/lecture_11/lecture_11.md",
-    "Collider_physics/lecture_10/lecture_10.md",
-    "B-parking/Tue_May_2_2023.md",
-    "knowledge_base/parton_factorization_theorem.md"
+    "Collider_physics/HW_4/HW_4.md"
   ]
 }

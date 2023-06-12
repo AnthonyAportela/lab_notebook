@@ -190,3 +190,13 @@ The analysis utilized a dataset of 137 fb−1 collected at a center-of-mass ener
 The main outcome of this study is the establishment of the most stringent limits to date on the branching fraction of the Higgs boson decaying into LLPs that subsequently decay into various final states, such as dd, bb, and τ+τ−. The limits were set for different LLP masses and proper decay lengths. Notably, for large decay lengths (cτ > 100 m), the obtained limits outperformed previous results by a factor of 6 (2) for LLP masses of 7 (≥15) GeV.
 
 These findings contribute to the ongoing exploration of physics beyond the standard model. The use of the CMS endcap muon detectors as a calorimeter proved to be an effective strategy, offering a valuable complement to existing search techniques. The study opens new avenues for understanding the properties and characteristics of long-lived particles and provides valuable input for theoretical models and future experimental efforts.
+
+# Limits and Constraints
+
+| Decay Modes | Proper Decay Length (cτ) | LLP Mass (GeV) | Limits/Constraints                 |
+|-------------|-------------------------|----------------|-----------------------------------|
+| dd          | cτ > 6 m                | 7              | Most stringent limit to date      |
+| bb          | cτ > 20 m               | 15             | Most stringent limit to date      |
+| τ+τ−       | cτ > 40 m               | 40             | Most stringent limit to date      |
+| dd          | cτ > 100 m              | 7              | Outperforms previous limits by 6x |
+| bb          | cτ > 100 m              | ≥15            | Outperforms previous limits by 2x |
