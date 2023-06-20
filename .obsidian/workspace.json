@@ -112,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 341.5,
+    "collapsed": true
   },
   "right": {
     "id": "7f0896c98a1afd69",
@@ -199,8 +200,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6c97abf1fb86c526",
+  "active": "61377a8d7cab21e9",
   "lastOpenFiles": [
+    "knowledge_base/scalar-higgs_portal_theory_ref/multi-lepton_signatures_of_a_hidden_sector_in_rare_b_decays.pdf",
+    "knowledge_base/scalar-higgs_portal.md",
+    "knowledge_base/EXO-20-015_notes.md",
     "knowledge_base/scalar-higgs_portal_theory_ref/baryogenesis_from_b_meson_oscillations.pdf",
     "knowledge_base/scalar-higgs_portal_theory_ref/baryogenesis_from_b_meson_oscillations.pdf.download/baryogenesis_from_b_meson_oscillations.pdf",
     "knowledge_base/scalar-higgs_portal_theory_ref/baryogenesis_from_b_meson_oscillations.pdf.download",
@@ -211,9 +215,7 @@
     "knowledge_base/scalar-higgs_portal_theory_ref/probing_light_dark_matter_with_a_hadrophilic_scalar_mediator.pdf.download/probing_light_dark_matter_with_a_hadrophilic_scalar_mediator.pdf",
     "knowledge_base/scalar-higgs_portal_theory_ref/probing_light_dark_matter_with_a_hadrophilic_scalar_mediator.pdf.download",
     "knowledge_base/scalar-higgs_portal_theory_ref/flavor-specific_scalar_mediators.pdf",
-    "knowledge_base/scalar-higgs_portal_theory_ref/flavor-specific_scalar_mediators.pdf.download/flavor-specific_scalar_mediators.pdf",
     "knowledge_base/scalar-higgs_portal_theory_ref/do_b_meson_decays_exclude_a_light_higgs.pdf.md",
-    "knowledge_base/scalar-higgs_portal.md",
     "knowledge_base/scalar-higgs_portal_theory_ref/limits_on_a_light_higgs_boson.pdf.md",
     "knowledge_base/img/EXO-21-008_auxfig1.jpeg",
     "knowledge_base/img/EXO-21-008_tbl2.jpeg",
@@ -234,7 +236,6 @@
     "knowledge_base/img/EXO-21-008_fig.jpeg.md",
     "knowledge_base/img/EXO-21-008_fig1.md",
     "knowledge_base/EXO-21-008_notes.md",
-    "knowledge_base/EXO-20-015_notes.md",
     "knowledge_base/my_research.md",
     "knowledge_base/voms_setup.md",
     "knowledge_base/hepmc2.md",
