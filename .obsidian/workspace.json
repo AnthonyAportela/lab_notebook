@@ -40,9 +40,21 @@
                 "currentVersion": "1.3.5"
               }
             }
+          },
+          {
+            "id": "61377a8d7cab21e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scalar-higgs_portal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -117,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge_base/voms_setup.md",
+                "file": "scalar-higgs_portal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge_base/voms_setup.md",
+                "file": "scalar-higgs_portal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge_base/voms_setup.md"
+                "file": "scalar-higgs_portal.md"
               }
             }
           },
@@ -188,10 +200,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "57236e71ba83e639",
+  "active": "61377a8d7cab21e9",
   "lastOpenFiles": [
+    "knowledge_base/scalar-higgs_portal_theory_ref/baryogenesis_from_b_meson_oscillations.pdf",
+    "knowledge_base/scalar-higgs_portal_theory_ref/baryogenesis_from_b_meson_oscillations.pdf.download/baryogenesis_from_b_meson_oscillations.pdf",
+    "knowledge_base/scalar-higgs_portal_theory_ref/baryogenesis_from_b_meson_oscillations.pdf.download",
+    "knowledge_base/scalar-higgs_portal_theory_ref/baryogenesis_and_dark_matter_from_b_mesons.pdf",
+    "knowledge_base/scalar-higgs_portal_theory_ref/baryogenesis_and_dark_matter_from_b_mesons.pdf.download/baryogenesis_and_dark_matter_from_b_mesons.pdf",
+    "knowledge_base/scalar-higgs_portal_theory_ref/baryogenesis_and_dark_matter_from_b_mesons.pdf.download",
+    "knowledge_base/scalar-higgs_portal_theory_ref/probing_light_dark_matter_with_a_hadrophilic_scalar_mediator.pdf",
+    "knowledge_base/scalar-higgs_portal_theory_ref/probing_light_dark_matter_with_a_hadrophilic_scalar_mediator.pdf.download/probing_light_dark_matter_with_a_hadrophilic_scalar_mediator.pdf",
+    "knowledge_base/scalar-higgs_portal_theory_ref/probing_light_dark_matter_with_a_hadrophilic_scalar_mediator.pdf.download",
+    "knowledge_base/scalar-higgs_portal_theory_ref/flavor-specific_scalar_mediators.pdf",
+    "knowledge_base/scalar-higgs_portal_theory_ref/flavor-specific_scalar_mediators.pdf.download/flavor-specific_scalar_mediators.pdf",
+    "knowledge_base/scalar-higgs_portal_theory_ref/do_b_meson_decays_exclude_a_light_higgs.pdf.md",
+    "scalar-higgs_portal.md",
+    "knowledge_base/scalar-higgs_portal_theory_ref/limits_on_a_light_higgs_boson.pdf.md",
+    "knowledge_base/img/EXO-21-008_auxfig1.jpeg",
+    "knowledge_base/img/EXO-21-008_tbl2.jpeg",
+    "knowledge_base/img/EXO-21-008_tbl1.jpeg",
+    "knowledge_base/img/EXO-21-008_fig9.jpeg",
+    "knowledge_base/img/EXO-21-008_fig8.jpeg",
+    "knowledge_base/scratch.md",
     "knowledge_base/advancement_notes.md",
-    "CodexB_interest.pdf",
     "knowledge_base/codex-b_expression_of_interest.md",
     "knowledge_base/Untitled.md",
     "EXO-21-008_tbl1.jpeg",
@@ -199,20 +230,12 @@
     "EXO-21-008_tbl2.jpeg",
     "1E2681FF-5FEF-4166-A34E-F3AF764DD55A.jpeg",
     "EXO-21-009_fig9.jpeg",
-    "BAC66ACE-0CBB-47F6-868B-FF50683F0CE3.jpeg",
-    "EXO-21-009_tbl1.jpeg",
-    "F8548044-18B5-4171-A6FB-DF957A268677.jpeg",
-    "EXO-21-008_fig8.jpeg",
-    "E1641056-1DD3-4E0E-B07F-CC585147421A.jpeg",
     "knowledge_base/EXO-20-015_notes 2.md",
     "knowledge_base/EXO-20-015_notes 1.md",
     "knowledge_base/img/EXO-21-008_fig.jpeg.md",
     "knowledge_base/img/EXO-21-008_fig1.md",
-    "knowledge_base/documents/EXO-21-008-paper.pdf",
-    "knowledge_base/documents/EXO-20-015-paper.pdf",
     "knowledge_base/EXO-21-008_notes.md",
     "knowledge_base/EXO-20-015_notes.md",
-    "knowledge_base/documents",
     "knowledge_base/my_research.md",
     "knowledge_base/voms_setup.md",
     "knowledge_base/hepmc2.md",
@@ -224,17 +247,6 @@
     "knowledge_base/mamba.md",
     "B-parking/Fri_Apr_28_2023.md",
     "B-parking/Mon_Apr_17_2023.md",
-    "Collider_physics/HW_6/HW_6.pdf",
-    "Collider_physics/HW_6/img",
-    "Collider_physics/HW_6/Untitled",
-    "B-parking/Thur_May_25_2023.md",
-    "knowledge_base/SeededCone_top_Deregionizer_APx.md",
-    "knowledge_base/APx.md",
-    "Collider_physics/HW_6/PHYS239_ProblemSet6.pdf",
-    "Collider_physics/HW_6",
-    "knowledge_base/the_standard_model.md",
-    "knowledge_base/the_standard_model.txt",
-    "Collider_physics/HW_5/HW_5_sol.md",
-    "Collider_physics/HW_5/HW_5 1.md"
+    "B-parking/Thur_May_25_2023.md"
   ]
 }

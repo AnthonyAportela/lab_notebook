@@ -69,7 +69,24 @@ Sure, here is a tentative outline for 40 slides to cover all the topics you've m
 	* ~~Why the upgrade is necessary.~~
 	* Implications for future research.
 
-16. **Long-Lived Particles (LLPs)**
+00. SM Dead End
+* Absence of clear experimental hints for new physics
+* Crucial to explore new strategies with minimal theoretical prejudice.
+- A key concept for exploration is "dark" or "hidden" sectors 
+* Consist of particles that are neutral or have suppressed interactions with the Standard Model (SM) gauge interactions.
+- Prevalent in various BSM scenarios and can involve suppressed couplings or heavy mediator particles that connect to the SM.
+- "Higgs portal" is particularly interesting as sector's properties are not yet fully understood
+- new states may interact with it
+- Experiments capable of studying the Higgs boson offer natural laboratories for new physics searches
+- To cover the broad range of possibilities in hidden sectors, it is essential to employ model-independent search strategies
+
+00. Long lived particles
+- Suppressed dark-SM couplings or heavy mediators can lead to long lifetimes for light particles in the hidden sector due to reduced total widths from small couplings, mediator mass, loops, or phase space effects.
+- This scenario is common in models involving Dark Matter, Baryogenesis, Supersymmetry, or Neutral Naturalness.
+- In the SM, examples of long lifetimes are observed in particles like K0 L, π±, neutron, and muon, whose widths are suppressed by weak interaction scales required for flavor-changing processes and phase space considerations.
+- Hidden sectors can manifest as distinct signatures in LHC collisions, particularly through the displaced decay-in-flight of these long-lived particles (LLPs) in the hidden sector.
+
+2. **Long-Lived Particles (LLPs)**
     * Introduction and explanation of LLPs.
 
 17-18. **Different Models for LLPs**
@@ -80,7 +97,7 @@ Sure, here is a tentative outline for 40 slides to cover all the topics you've m
     * Discuss the limitations and challenges of using CMS for detecting LLPs.
 
 20. **Why CMS is Well-Suited for LLPs**
-    * Discuss the advantages of CMS in the search for LLPs.
+    * DiWhy CMS is Well-Suited for LLPsscuss the advantages of CMS in the search for LLPs.
 
 21-23. **Past Searches of LLPs**
     * Summary of past searches and their findings.

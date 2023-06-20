@@ -446,3 +446,15 @@ In the context of the twin Higgs and dark shower models, the study sets the most
 The search results show no statistically significant deviation from the expected background based on the Standard Model predictions. This confirms the consistency of the observed data with the Standard Model. The study provides the most stringent limits for LLPs decaying to particles other than muons, demonstrating the excellent shielding provided by the CMS detector system.
 
 Overall, this study significantly advances our understanding of LLP decays and their potential manifestations in the CMS detector. The results have important implications for theoretical models and contribute to the ongoing exploration of new physics phenomena.
+
+
+| Parameter                     | Constraint                                           |
+|-------------------------------|------------------------------------------------------|
+| LLP Masses                    | From 0.01 to 55 GeV                                  |
+| LLP Decay Modes               | Quarks, kaons, pions, electrons, photons, τ leptons |
+| Branching Fraction (Higgs)    | Strictest limits for masses below 10 GeV             |
+| Proper Decay Length (15 GeV)  | Range 0.04-0.4m and above 4m                         |
+| Proper Decay Length (40 GeV)  | Range 0.3-0.9m and above 3m                          |
+| Proper Decay Length (55 GeV)  | Above 0.8m                                           |
+| Dark Quantum Chromodynamics   | First LHC limits set                                 |
+| Branching Fractions (Dark Quarks) | Sensitive to as low as 1e−3                      |

@@ -67,9 +67,9 @@ rm -rf HepMC-2.06.11  hepmc2.06.11.tgz pythia8309  pythia8309.tgz
 ```
 
 ```sh
-num_cores = "16"
-top="$HOME"
-bdecay_dir="$HOME/backup$"
+num_cores="16"
+top="$HOME/nobackup"
+bdecay_dir="$HOME/nobackup"
 mamba activate mc
 cd $top
 wget http://hepmc.web.cern.ch/hepmc/releases/hepmc2.06.09.tgz
