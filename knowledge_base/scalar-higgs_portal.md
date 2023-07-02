@@ -28,4 +28,10 @@ $$
 $$
 
 where the $\cdots$ denote higher dimensional operators, assumed to be suppressed.
+The parameter $A_S$ can be exchanged for the mixing angle, $\sin\theta$, of the $S$ with the physical Higgs boson eigenstate.
+In the mass eigenbasis, the new light scalar therefore inherits all the couplings of the SM model Higgs: Mass hierarchical couplings with all the SM fermions, as well couplings to photons and gluons at one loop.
+All such couplings are suppressed by the small parameter $\sin\theta$. 
+The couplings induced by Higgs mixing are responsible not only for the decay of $S$. 
+**See sources 1-5.**
+
 

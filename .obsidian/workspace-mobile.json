@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "29f12425f880157d",
+        "id": "c250aca85305dc09",
         "type": "tabs",
         "children": [
           {
-            "id": "30dcf71364a4b538",
+            "id": "2dde4b18317b6f89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge_base/scratch.md",
+                "file": "B-parking/Sun_Jul_02_2023/Sun_Jul_02_2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "knowledge_base/scratch.md",
+            "file": "B-parking/Sun_Jul_02_2023/Sun_Jul_02_2023.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "knowledge_base/scratch.md",
+            "file": "B-parking/Sun_Jul_02_2023/Sun_Jul_02_2023.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "knowledge_base/scratch.md"
+            "file": "B-parking/Sun_Jul_02_2023/Sun_Jul_02_2023.md"
           }
         }
       }
@@ -140,53 +140,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "30dcf71364a4b538",
+  "active": "2dde4b18317b6f89",
   "lastOpenFiles": [
+    "B-parking/Sun_Jul_02_2023/dtRechitClusterSize_Test_predtID.jpeg",
+    "B-parking/Sun_Jul_02_2023/dtRechitClusterSize_OOT_predtID.jpeg",
+    "B-parking/Sun_Jul_02_2023/Sun_Jul_02_2023.md",
+    "B-parking/Sun_Jul_02_2023/dtRechitClusterSize_SR_predtID.jpeg",
+    "B-parking/Sun_Jul_02_2023/dtRechitClusterSize_SR_postdtID.jpeg",
+    "B-parking/Sun_Jul_02_2023/dtRechitClusterSize_Test_postdtID.jpeg",
+    "B-parking/Sun_Jul_02_2023/dtRechitClusterSize_OOT_postdtID.jpeg",
+    "B-parking/Fri_Apr_28_2023.md",
+    "B-parking/Untitled/Untitled",
+    "knowledge_base/LPC.md",
+    "B-parking/Sun_Jul_02_2023",
+    "B-parking/Thur_May_25_2023.md",
     "knowledge_base/scratch.md",
+    "knowledge_base/mamba.md",
+    "knowledge_base/Concepts of Elementary Particle Physics.md",
+    "knowledge_base/git_ssh_auth.md",
+    "knowledge_base/Adding_ssh_key_for_secure_access_to_gitlab.md",
+    "knowledge_base/the_decay_of_a_light_higgs_boson_NOTES.md",
+    "knowledge_base/scalar-higgs_portal.md",
+    "knowledge_base/scalar-higgs_portal_theory_ref/the_decay_of_a_light_higgs_boson.pdf",
+    "knowledge_base/img/EXO-21-008_fig1.jpeg",
+    "knowledge_base/img/EXO-21-008_tbl2.jpeg",
+    "knowledge_base/img/EXO-21-008_fig6.jpeg",
+    "knowledge_base/img/EXO-21-008_fig4.jpeg",
+    "knowledge_base/img/EXO-21-008_fig5.jpeg",
+    "knowledge_base/scalar-higgs_portal_theory_ref/light_inflaton_hunters_guide.pdf",
+    "knowledge_base/scalar-higgs_portal_theory_ref/decay_and_detection_of_a_light_scalar_boson_mixing_with_the_higgs_boson.pdf",
+    "knowledge_base/scalar-higgs_portal_theory_ref/bbn_for_the_lhc_constraints_on_lifetimes_of_the_higgs_portal_scalars.pdf",
+    "knowledge_base/scalar-higgs_portal_theory_ref/uncertainties_of_hadronic_scalar_decay_calculations.pdf",
+    "knowledge_base/scalar-higgs_portal_theory_ref/baryogenesis_and_dark_matter_from_b_mesons.pdf",
+    "knowledge_base/scalar-higgs_portal_theory_ref/decays_k_to_pi_l_l_and_limits_on_the_mass_of_the_neutral_higgs_boson.pdf",
+    "knowledge_base/scalar-higgs_portal_theory_ref/probing_light_dark_matter_with_a_hadrophilic_scalar_mediator.pdf",
     "knowledge_base/hepmc2.md",
     "knowledge_base/EXO-21-008_notes.md",
     "knowledge_base/advancement_notes.md",
     "knowledge_base/EXO-20-015_notes.md",
     "knowledge_base/codex-b_expression_of_interest.md",
-    "CodexB_interest.pdf",
-    "EXO-21-008_tbl1.jpeg",
-    "EXO-21-008_tbl2.jpeg",
-    "EXO-21-008_fig9.jpeg",
-    "EXO-21-008_fig8.jpeg",
-    "EXO-21-008_fig7.jpeg",
-    "EXO-21-008_fig6.jpeg",
-    "EXO-21-008_fig5.jpeg",
-    "EXO-21-008_auxfig1.jpeg",
     "knowledge_base/EXO-20-015_notes 2.md",
     "knowledge_base/EXO-20-015_notes 1.md",
-    "EXO-21-008_fig4.jpeg",
-    "EXO-21-008_fig3.jpeg",
     "knowledge_base/img/EXO-21-008_fig.jpeg.md",
     "knowledge_base/img/EXO-21-008_fig1.md",
-    "knowledge_base/documents/EXO-21-008-paper.pdf",
-    "knowledge_base/documents",
-    "knowledge_base/documents/EXO-20-015-paper.pdf",
     "knowledge_base/MadGraph.md",
     "knowledge_base/pythia_8p3.md",
-    "Collider_physics/HW_5/HW_5_sol.pdf",
     "Collider_physics/HW_6/HW_6.md",
-    "Collider_physics/HW_6/PHYS239_ProblemSet6.pdf",
-    "Collider_physics/HW_3/HW_3.pdf",
-    "Collider_physics/HW_5/HW_5.pdf",
-    "Collider_physics/HW_4/PHYS239_ProblemSet4.pdf",
-    "B-parking/presentations/Limits update_05_03_23.pdf",
     "B-parking/Tue_Apr_11_2023.md",
-    "knowledge_base/hls4ml.md",
-    "Collider_physics/HW_5/HW_5_sol.md",
-    "B-parking/Fri_Apr_7_2023.md",
-    "Collider_physics/HW_3/HW_3.md",
-    "Collider_physics/HW_3/HW_3_corrected.md",
-    "Collider_physics/HW_5/HW_5.md",
-    "knowledge_base/git_ssh_auth.md",
-    "knowledge_base/voms_setup.md",
-    "B-parking/Thur_May_25_2023.md",
-    "knowledge_base/standard_model/1-1_theoretical_perspective.md",
-    "knowledge_base/Adding_ssh_key_for_secure_access_to_gitlab.md",
-    "knowledge_base/standard_model/1_Introduction.md"
+    "knowledge_base/hls4ml.md"
   ]
 }
