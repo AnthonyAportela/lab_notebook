@@ -90,3 +90,42 @@ Am concerned there's a bug in the code.
 			* ![](/B-parking/Sun_Jul_02_2023/background/dtRechitClusterSize_OOT_postdtID.jpeg)
 		* Test
 			* ![](/B-parking/Sun_Jul_02_2023/background/dtRechitClusterSize_test_postdtID.jpeg)
+
+# Why are we missing events in OOT?
+
+Let's investigate.
+
+✅ condition is present
+❌ not present
+⚠️ present but negated
+
+**CSC Conditions**
+
+| Condition | Test | OOT | SR |
+|---|---|---|---|
+| askDoesPassClusterSize_csc(j) | ✅ | ✅ | ✅ |
+| askDoesPassOverlapMuon_csc(j) | ✅ | ✅ | ✅ |
+| askDoesOverlapGenLLP_csc(j) | ❌ | ✅ | ✅ |
+| askDoesPassME1112Veto_csc(j) | ✅ | ✅ | ✅ |
+| askDoesPassMB1Veto_csc(j) | ✅ | ✅ | ✅ |
+| askDoesPassRB1Veto_csc(j) | ✅ | ❌ | ❌ |
+| askDoesPassMuonVeto_csc(j) | ✅ | ✅ | ✅ |
+| askDoesPassClusterTime_csc(j) | ⚠️ | ⚠️ | ✅ |
+| askDoesPassClusterTimeSpread_csc(j) | ✅ | ✅ | ✅ |
+| askDoesPassClusterEta_csc(j) | ✅ | ✅ | ✅ |
+| askDoesPassID_csc(j) | ⚠️ | ✅ | ✅ |
+
+**DT Conditions**
+
+| Condition | Test | OOT | SR |
+|---|---|---|---|
+| askDoesPassClusterSize_dt(j) | ❌ | ✅ | ✅ |
+| askDoesPassOverlapMuon_dt(j) | ✅ | ✅ | ✅ |
+| askDoesOverlapGenMuon_dt(j) | ❌ | ✅ | ✅ |
+| askDoesPassRPCMatching_dt(j) | ✅ | ✅ | ✅ |
+| askDoesPassRPCTimeCut_dt(j) | ✅ | ⚠️ | ✅ |
+| askDoesPassMB1Adjacent_dt(j) | ✅ | ✅ | ✅ |
+| askDoesPassMB1Veto_dt(j) | ✅ | ✅ | ✅ |
+| askDoesPassMuonVeto_dt(j) | ✅ | ✅ | ✅ |
+| askDoesPassID_dt(j) | ✅ | ✅ | ✅ |
+
