@@ -51,7 +51,7 @@ bool analyzer_objects::askDoesPassID_dt(int index){                             
 
 #### Summary plot
 
-![](/B-parking/Sun_Jul_02_2023/summary_plot.png)
+![](B-parking/dt_cutbased_ID_investigation/summary_plot.png)
 
 It looks like both the signals are identical across all signal regions. 
 Same for bkg.
@@ -63,33 +63,33 @@ Am concerned there's a bug in the code.
 * Signal
 	* Before ID
 		* SR 
-			* ![](/B-parking/Sun_Jul_02_2023/signal/dtRechitClusterSize_SR_predtID.jpeg)
+			* ![](B-parking/dt_cutbased_ID_investigation/signal/dtRechitClusterSize_SR_predtID.jpeg)
 		* OOT
-			* ![](/B-parking/Sun_Jul_02_2023/signal/dtRechitClusterSize_OOT_predtID.jpeg)
+			* ![](B-parking/dt_cutbased_ID_investigation/signal/dtRechitClusterSize_OOT_predtID.jpeg)
 		* Test
-			* ![](/B-parking/Sun_Jul_02_2023/signal/dtRechitClusterSize_Test_predtID.jpeg)
+			* ![](B-parking/dt_cutbased_ID_investigation/signal/dtRechitClusterSize_Test_predtID.jpeg)
 	* After ID
 		* SR 
-			* ![](/B-parking/Sun_Jul_02_2023/signal/dtRechitClusterSize_SR_postdtID.jpeg)
+			* ![](B-parking/dt_cutbased_ID_investigation/signal/dtRechitClusterSize_SR_postdtID.jpeg)
 		* OOT
-			* ![](/B-parking/Sun_Jul_02_2023/signal/dtRechitClusterSize_OOT_postdtID.jpeg)
+			* ![](B-parking/dt_cutbased_ID_investigation/signal/dtRechitClusterSize_OOT_postdtID.jpeg)
 		* Test
-			* ![](/B-parking/Sun_Jul_02_2023/signal/dtRechitClusterSize_Test_postdtID.jpeg)
+			* ![](B-parking/dt_cutbased_ID_investigation/signal/dtRechitClusterSize_Test_postdtID.jpeg)
 * Background
 	* Before ID
 		* SR
-			* ![](/B-parking/Sun_Jul_02_2023/background/dtRechitClusterSize_SR_predtID.jpeg)
+			* ![](B-parking/dt_cutbased_ID_investigation/background/dtRechitClusterSize_SR_predtID.jpeg)
 		* OOT
-			* ![](/B-parking/Sun_Jul_02_2023/background/dtRechitClusterSize_OOT_predtID.jpeg)
+			* ![](B-parking/dt_cutbased_ID_investigation/background/dtRechitClusterSize_OOT_predtID.jpeg)
 		* Test
-			* ![](/B-parking/Sun_Jul_02_2023/background/dtRechitClusterSize_test_predtID.jpeg)
+			* ![](B-parking/dt_cutbased_ID_investigation/background/dtRechitClusterSize_test_predtID.jpeg)
 	* After ID
 		* SR
-			* ![](/B-parking/Sun_Jul_02_2023/background/dtRechitClusterSize_SR_postdtID.jpeg)
+			* ![](B-parking/dt_cutbased_ID_investigation/background/dtRechitClusterSize_SR_postdtID.jpeg)
 		* OOT
-			* ![](/B-parking/Sun_Jul_02_2023/background/dtRechitClusterSize_OOT_postdtID.jpeg)
+			* ![](B-parking/dt_cutbased_ID_investigation/background/dtRechitClusterSize_OOT_postdtID.jpeg)
 		* Test
-			* ![](/B-parking/Sun_Jul_02_2023/background/dtRechitClusterSize_test_postdtID.jpeg)
+			* ![](B-parking/dt_cutbased_ID_investigation/background/dtRechitClusterSize_test_postdtID.jpeg)
 
 # Why are we missing events in OOT?
 
