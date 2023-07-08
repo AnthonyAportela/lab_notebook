@@ -91,6 +91,7 @@ Am concerned there's a bug in the code.
 		* Test
 			* ![](/B-parking/dt_cutbased_ID_investigation/background/dtRechitClusterSize_test_postdtID.jpeg)
 
+
 # Why are we missing events in OOT?
 
 Let's investigate.
@@ -129,3 +130,17 @@ Let's investigate.
 | askDoesPassMuonVeto_dt(j) | ✅ | ✅ | ✅ |
 | askDoesPassID_dt(j) | ✅ | ✅ | ✅ |
 
+
+### The actual answer is that these cuts are wrong
+
+They're for csc, not dt.
+Updated:
+
+| Condition Number | dtRechitCluster NStation10 | abs dtRechitCluster AvgStation10 | abs dtRechit ClusterEta | Does it pass? |
+| ---------------- | ------------------------- | --------------------------------- | ------------------------ | ------------- |
+| A                | > 1                       | -                                 | < 1.1                    | Yes           |
+| B1               | == 1                      | == 1                              | < 0.9                    | Yes           |
+| B2               | == 1                      | == 2                              | < 0.8                    | Yes           |
+| B3               | == 1                      | == 3                              | < 0.7                    | Yes           |
+| B4               | == 1                      | == 4                              | < 0.6                    | Yes           |
+| Else             | -                         | -                                 | -                        | No            |

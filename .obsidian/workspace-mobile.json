@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c250aca85305dc09",
+        "id": "393754a9a71032fe",
         "type": "tabs",
         "children": [
           {
-            "id": "2dde4b18317b6f89",
+            "id": "9b7c714a4a157cc5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "B-parking/dt_cutbased_ID_investigation/dt_cutbased_ID_investigation.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -44,7 +40,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#include",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -93,7 +89,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "B-parking/dt_cutbased_ID_investigation/dt_cutbased_ID_investigation.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "B-parking/dt_cutbased_ID_investigation/dt_cutbased_ID_investigation.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -121,9 +115,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "B-parking/dt_cutbased_ID_investigation/dt_cutbased_ID_investigation.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -140,8 +132,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2dde4b18317b6f89",
+  "active": "732762eab838aff3",
   "lastOpenFiles": [
+    "B-ParkingLLPs/analysis/app/analyzer_tree.C.md",
+    "B-ParkingLLPs/analysis/app/analyzer.C.md",
+    "B-ParkingLLPs/analysis/include/analyzer_objects.h.md",
+    "B-ParkingLLPs/analysis/app/analyzer_objects.C.md",
+    "B-ParkingLLPs/analysis/include/analyzer_histograms.h.md",
+    "B-ParkingLLPs/analysis/app/analyzer_histograms.C.md",
+    "B-ParkingLLPs/analysis/include/analyzer_config.h.md",
+    "B-ParkingLLPs/analysis/app/analyzer_config.C.md",
+    "B-ParkingLLPs/analysis/app/analyzer_base.C.md",
+    "B-ParkingLLPs/analysis/include/analyzer_base.h.md",
+    "B-ParkingLLPs/analysis/include/CommandLineInput.h.md",
+    "B-ParkingLLPs/analysis/app/CommandLineInput.C.md",
+    "B-ParkingLLPs/analysis/include/analyzer_tree.h.md",
+    "B-ParkingLLPs/analysis/main.C.md",
+    "B-ParkingLLPs/analysis/include/analyzer.h.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "B-ParkingLLPs/limit_plots_gen/Pickles/README.md",
+    "B-ParkingLLPs/analysis/include/analyzer_config.h",
+    "B-ParkingLLPs/analysis/include/analyzer_base.h",
+    "B-ParkingLLPs/analysis/include/analyzer_objects.h",
+    "B-ParkingLLPs/analysis/include/analyzer.h",
+    "B-ParkingLLPs/analysis/include/analyzer_histograms.h",
+    "B-ParkingLLPs/analysis/include/analyzer_tree.h",
+    "B-ParkingLLPs/analysis/include/CommandLineInput.h",
+    "B-ParkingLLPs/analysis/app/analyzer_config.C",
+    "B-ParkingLLPs/analysis/app/analyzer_base.C",
+    "B-ParkingLLPs/analysis/app/analyzer.C",
+    "B-ParkingLLPs/limit_plots_gen/README.md",
+    "B-ParkingLLPs/README.md",
+    "B-ParkingLLPs/main.C.md",
     "Untitled.md",
     "B-parking/dt_cutbased_ID_investigation/dt_cutbased_ID_investigation.md",
     "B-parking/dt_cutbased_ID_investigation/summary_plot.png",
@@ -151,42 +174,13 @@
     "B-parking/dt_cutbased_ID_investigation/background/dtRechitClusterSize_test_predtID.jpeg",
     "B-parking/dt_cutbased_ID_investigation/background/dtRechitClusterSize_OOT_predtID.jpeg",
     "B-parking/dt_cutbased_ID_investigation/background/dtRechitClusterSize_SR_predtID.jpeg",
-    "B-parking/dt_cutbased_ID_investigation/background",
     "B-parking/dt_cutbased_ID_investigation/signal/dtRechitClusterSize_Test_predtID.jpeg",
-    "B-parking/dt_cutbased_ID_investigation/signal",
     "B-parking/dt_cutbased_ID_investigation/signal/dtRechitClusterSize_OOT_predtID.jpeg",
     "B-parking/dt_cutbased_ID_investigation/signal/dtRechitClusterSize_SR_predtID.jpeg",
     "B-parking/Fri_Apr_28_2023.md",
-    "B-parking/Untitled/Untitled",
     "knowledge_base/LPC.md",
-    "B-parking/dt_cutbased_ID_investigation",
     "B-parking/Thur_May_25_2023.md",
     "knowledge_base/scratch.md",
-    "knowledge_base/mamba.md",
-    "knowledge_base/Concepts of Elementary Particle Physics.md",
-    "knowledge_base/git_ssh_auth.md",
-    "knowledge_base/Adding_ssh_key_for_secure_access_to_gitlab.md",
-    "knowledge_base/the_decay_of_a_light_higgs_boson_NOTES.md",
-    "knowledge_base/scalar-higgs_portal.md",
-    "knowledge_base/scalar-higgs_portal_theory_ref/the_decay_of_a_light_higgs_boson.pdf",
-    "knowledge_base/scalar-higgs_portal_theory_ref/light_inflaton_hunters_guide.pdf",
-    "knowledge_base/scalar-higgs_portal_theory_ref/decay_and_detection_of_a_light_scalar_boson_mixing_with_the_higgs_boson.pdf",
-    "knowledge_base/scalar-higgs_portal_theory_ref/bbn_for_the_lhc_constraints_on_lifetimes_of_the_higgs_portal_scalars.pdf",
-    "knowledge_base/scalar-higgs_portal_theory_ref/uncertainties_of_hadronic_scalar_decay_calculations.pdf",
-    "knowledge_base/scalar-higgs_portal_theory_ref/baryogenesis_and_dark_matter_from_b_mesons.pdf",
-    "knowledge_base/hepmc2.md",
-    "knowledge_base/EXO-21-008_notes.md",
-    "knowledge_base/advancement_notes.md",
-    "knowledge_base/EXO-20-015_notes.md",
-    "knowledge_base/codex-b_expression_of_interest.md",
-    "knowledge_base/EXO-20-015_notes 2.md",
-    "knowledge_base/EXO-20-015_notes 1.md",
-    "knowledge_base/img/EXO-21-008_fig.jpeg.md",
-    "knowledge_base/img/EXO-21-008_fig1.md",
-    "knowledge_base/MadGraph.md",
-    "knowledge_base/pythia_8p3.md",
-    "Collider_physics/HW_6/HW_6.md",
-    "B-parking/Tue_Apr_11_2023.md",
-    "knowledge_base/hls4ml.md"
+    "knowledge_base/mamba.md"
   ]
 }

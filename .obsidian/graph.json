@@ -1,24 +1,24 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
-    {
-      "query": "path:B-parking",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
-      }
-    },
     {
       "query": "path:FPGA_deployment",
       "color": {
         "a": 1,
         "rgb": 5526240
+      }
+    },
+    {
+      "query": "path:/B-ParkingLLPs",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
       }
     }
   ],
@@ -32,6 +32,6 @@
   "repelStrength": 12.0255533854167,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.4961031627231046,
+  "scale": 1.7622716842791235,
   "close": true
 }
