@@ -139,8 +139,24 @@ Updated:
 | Condition Number | dtRechitCluster NStation10 | abs dtRechitCluster AvgStation10 | abs dtRechit ClusterEta | Does it pass? |
 | ---------------- | ------------------------- | --------------------------------- | ------------------------ | ------------- |
 | A                | > 1                       | -                                 | < 1.1                    | Yes           |
-| B1               | == 1                      | == 1                              | < 0.9                    | Yes           |
-| B2               | == 1                      | == 2                              | < 0.8                    | Yes           |
-| B3               | == 1                      | == 3                              | < 0.7                    | Yes           |
-| B4               | == 1                      | == 4                              | < 0.6                    | Yes           |
+| B1               | == 1                      | == 2                              | < 0.8                    | Yes           |
+| B2               | == 1                      | == 3                              | < 0.7                    | Yes           |
+| B3               | == 1                      | == 4                              | < 0.6                    | Yes           |
 | Else             | -                         | -                                 | -                        | No            |
+
+
+## Region A
+
+![](/B-parking/img/IMG_0887.png)
+
+## Region B1
+
+![](B-parking/img/IMG_0888.png)
+
+## Region B2
+
+![](/B-parking/img/IMG_0889.png)
+
+## Region B3
+
+![](/B-parking/img/IMG_0890.png)

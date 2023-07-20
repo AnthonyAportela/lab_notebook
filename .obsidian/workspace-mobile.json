@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "393754a9a71032fe",
+        "id": "15dc9104766fc8b6",
         "type": "tabs",
         "children": [
           {
-            "id": "9b7c714a4a157cc5",
+            "id": "c26a9b1f3841a625",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "B-parking/dt_cutbased_ID_investigation/dt_cutbased_ID_investigation.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "B-parking/dt_cutbased_ID_investigation/dt_cutbased_ID_investigation.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "B-parking/dt_cutbased_ID_investigation/dt_cutbased_ID_investigation.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +121,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "B-parking/dt_cutbased_ID_investigation/dt_cutbased_ID_investigation.md"
+          }
         }
       }
     ],
@@ -132,8 +140,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "732762eab838aff3",
+  "active": "c26a9b1f3841a625",
   "lastOpenFiles": [
+    "B-parking/img/IMG_0890.png",
+    "B-parking/img/IMG_0889.png",
+    "B-parking/img/IMG_0888.png",
+    "B-parking/img/IMG_0887.png",
+    "knowledge_base/Neuro Hackathon.md",
+    "FPGA_deployment/bitwise_investigation/bitwise_investigation.md",
+    "knowledge_base/Correlator4.md",
+    "FPGA_deployment/bitwise_investigation",
+    "knowledge_base/Untitled.canvas",
+    "knowledge_base/review_of_binarized_neural_networks/summary.md",
+    "knowledge_base/review_of_binarized_neural_networks/paper.pdf",
+    "knowledge_base/pythia_8p3.md",
+    "knowled_base/review_of_binarized_neural_networks/paper.pdf.md",
+    "knowledge_base/MadGraph.md",
+    "knowled_base",
+    "knowled_base/review_of_binarized_neural_networks",
+    "knowledge_base/review_of_binarized_neural_networks",
+    "B-ParkingLLPs/analysis/main.C.md",
     "B-ParkingLLPs/analysis/app/analyzer_tree.C.md",
     "B-ParkingLLPs/analysis/app/analyzer.C.md",
     "B-ParkingLLPs/analysis/include/analyzer_objects.h.md",
@@ -147,7 +173,6 @@
     "B-ParkingLLPs/analysis/include/CommandLineInput.h.md",
     "B-ParkingLLPs/analysis/app/CommandLineInput.C.md",
     "B-ParkingLLPs/analysis/include/analyzer_tree.h.md",
-    "B-ParkingLLPs/analysis/main.C.md",
     "B-ParkingLLPs/analysis/include/analyzer.h.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
@@ -157,30 +182,14 @@
     "B-ParkingLLPs/analysis/include/analyzer_objects.h",
     "B-ParkingLLPs/analysis/include/analyzer.h",
     "B-ParkingLLPs/analysis/include/analyzer_histograms.h",
-    "B-ParkingLLPs/analysis/include/analyzer_tree.h",
-    "B-ParkingLLPs/analysis/include/CommandLineInput.h",
-    "B-ParkingLLPs/analysis/app/analyzer_config.C",
-    "B-ParkingLLPs/analysis/app/analyzer_base.C",
-    "B-ParkingLLPs/analysis/app/analyzer.C",
     "B-ParkingLLPs/limit_plots_gen/README.md",
     "B-ParkingLLPs/README.md",
-    "B-ParkingLLPs/main.C.md",
-    "Untitled.md",
-    "B-parking/dt_cutbased_ID_investigation/dt_cutbased_ID_investigation.md",
     "B-parking/dt_cutbased_ID_investigation/summary_plot.png",
     "B-parking/dt_cutbased_ID_investigation/background/dtRechitClusterSize_test_postdtID.jpeg",
     "B-parking/dt_cutbased_ID_investigation/background/dtRechitClusterSize_OOT_postdtID.jpeg",
     "B-parking/dt_cutbased_ID_investigation/background/dtRechitClusterSize_SR_postdtID.jpeg",
     "B-parking/dt_cutbased_ID_investigation/background/dtRechitClusterSize_test_predtID.jpeg",
     "B-parking/dt_cutbased_ID_investigation/background/dtRechitClusterSize_OOT_predtID.jpeg",
-    "B-parking/dt_cutbased_ID_investigation/background/dtRechitClusterSize_SR_predtID.jpeg",
-    "B-parking/dt_cutbased_ID_investigation/signal/dtRechitClusterSize_Test_predtID.jpeg",
-    "B-parking/dt_cutbased_ID_investigation/signal/dtRechitClusterSize_OOT_predtID.jpeg",
-    "B-parking/dt_cutbased_ID_investigation/signal/dtRechitClusterSize_SR_predtID.jpeg",
-    "B-parking/Fri_Apr_28_2023.md",
-    "knowledge_base/LPC.md",
-    "B-parking/Thur_May_25_2023.md",
-    "knowledge_base/scratch.md",
-    "knowledge_base/mamba.md"
+    "B-parking/dt_cutbased_ID_investigation/background/dtRechitClusterSize_SR_predtID.jpeg"
   ]
 }

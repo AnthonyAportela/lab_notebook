@@ -3,7 +3,7 @@ An FPGA at Fermilab which I can log into using similar credentials to [LPC](/kno
 I first need to add the following to my `.ssh/config` on my local machine:
 ```
 Host correlator4.fnal.gov
-    User rmarroqu
+    User aaportel
     GSSAPIAuthentication yes
     GSSAPIDelegateCredentials yes
     StrictHostKeyChecking no
