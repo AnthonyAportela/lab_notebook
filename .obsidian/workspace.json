@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B-parking/Sun_Jul_02_2023/Sun_Jul_02_2023.md",
+                "file": "knowledge_base/Correlator4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "afa1f7a2d86fa37b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FPGA_deployment/LLP_jet_tagger/LLP_jet_tagger.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,7 +51,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -77,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 341.5,
+    "collapsed": true
   },
   "right": {
     "id": "7f0896c98a1afd69",
@@ -93,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B-parking/Sun_Jul_02_2023/Sun_Jul_02_2023.md",
+                "file": "FPGA_deployment/LLP_jet_tagger/LLP_jet_tagger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "B-parking/Sun_Jul_02_2023/Sun_Jul_02_2023.md",
+                "file": "FPGA_deployment/LLP_jet_tagger/LLP_jet_tagger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "B-parking/Sun_Jul_02_2023/Sun_Jul_02_2023.md"
+                "file": "FPGA_deployment/LLP_jet_tagger/LLP_jet_tagger.md"
               }
             }
           },
@@ -164,53 +178,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7d8a3f53c20b99d",
+  "active": "afa1f7a2d86fa37b",
   "lastOpenFiles": [
+    "knowledge_base/Correlator4.md",
+    "knowledge_base/git_ssh_auth.md",
+    "FPGA_deployment/LLP_jet_tagger/LLP_jet_tagger.md",
+    "knowldege_base/Correlator4.md",
+    "knowldege_base",
+    "FPGA_deployment/bitwise_investigation/bitwise_investigation.md",
+    "FPGA_deployment/LLP_jet_tagger",
+    "B-parking/dt_cutbased_ID_investigation/dt_cutbased_ID_investigation.md",
+    "B-parking/img/Pasted image 20230721102131.png",
+    "B-parking/img/Pasted image 20230721101836.png",
+    "B-parking/img/Pasted image 20230721101709.png",
+    "B-parking/img/Pasted image 20230721101403.png",
+    "B-parking/img/Pasted image 20230721101305.png",
+    "B-parking/img/cat_eta.png",
+    "B-ParkingLLPs/analysis/app/analyzer_objects.C.md",
+    "B-ParkingLLPs/analysis/include/CommandLineInput.h.md",
+    "B-ParkingLLPs/analysis/include/analyzer_base.h.md",
+    "knowledge_base/review_of_binarized_neural_networks/summary.md",
+    "knowledge_base/review_of_binarized_neural_networks/paper.pdf",
+    "knowledge_base/Untitled.canvas",
+    "B-ParkingLLPs/analysis/app/analyzer_config.C.md",
+    "B-ParkingLLPs/analysis/app/analyzer_histograms.C.md",
+    "B-ParkingLLPs/analysis/app/CommandLineInput.C.md",
+    "B-ParkingLLPs/analysis/include/analyzer_objects.h.md",
+    "B-ParkingLLPs/analysis/include/analyzer_histograms.h.md",
+    "B-ParkingLLPs/analysis/app/analyzer_tree.C.md",
+    "B-ParkingLLPs/analysis/include/analyzer_tree.h.md",
+    "B-ParkingLLPs/analysis/app/analyzer.C.md",
+    "B-ParkingLLPs/analysis/include/analyzer.h.md",
+    "B-ParkingLLPs/analysis/include/analyzer_config.h.md",
+    "B-ParkingLLPs/analysis/app/analyzer_base.C.md",
+    "B-parking/img/IMG_0887.png",
+    "B-parking/img/IMG_0889.png",
+    "B-ParkingLLPs/analysis/main.C.md",
+    "knowledge_base/Neuro Hackathon.md",
+    "B-parking/img/IMG_0888.png",
+    "B-parking/img/IMG_0890.png",
+    "B-ParkingLLPs/analysis/app",
+    "B-ParkingLLPs/analysis/include",
+    "FPGA_deployment/bitwise_investigation",
+    "knowledge_base/review_of_binarized_neural_networks",
+    "B-ParkingLLPs/analysis",
+    "B-parking/dt_cutbased_ID_investigation/signal",
+    "B-parking/dt_cutbased_ID_investigation/background",
     "knowledge_base/scalar-higgs_portal.md",
     "knowledge_base/pythia_8p3.md",
-    "knowledge_base/voms_setup.md",
-    "knowledge_base/Concepts of Elementary Particle Physics.md",
-    "knowledge_base/Untitled.md",
-    "knowledge_base/the_decay_of_a_light_higgs_boson_NOTES.md",
-    "knowledge_base/scalar-higgs_portal_theory_ref/multi-lepton_signatures_of_a_hidden_sector_in_rare_b_decays.pdf",
-    "knowledge_base/EXO-20-015_notes.md",
-    "knowledge_base/scalar-higgs_portal_theory_ref/baryogenesis_from_b_meson_oscillations.pdf",
-    "knowledge_base/scalar-higgs_portal_theory_ref/baryogenesis_from_b_meson_oscillations.pdf.download/baryogenesis_from_b_meson_oscillations.pdf",
-    "knowledge_base/scalar-higgs_portal_theory_ref/baryogenesis_from_b_meson_oscillations.pdf.download",
-    "knowledge_base/scalar-higgs_portal_theory_ref/baryogenesis_and_dark_matter_from_b_mesons.pdf",
-    "knowledge_base/scalar-higgs_portal_theory_ref/baryogenesis_and_dark_matter_from_b_mesons.pdf.download/baryogenesis_and_dark_matter_from_b_mesons.pdf",
-    "knowledge_base/scalar-higgs_portal_theory_ref/baryogenesis_and_dark_matter_from_b_mesons.pdf.download",
-    "knowledge_base/scalar-higgs_portal_theory_ref/probing_light_dark_matter_with_a_hadrophilic_scalar_mediator.pdf",
-    "knowledge_base/scalar-higgs_portal_theory_ref/probing_light_dark_matter_with_a_hadrophilic_scalar_mediator.pdf.download/probing_light_dark_matter_with_a_hadrophilic_scalar_mediator.pdf",
-    "knowledge_base/scalar-higgs_portal_theory_ref/probing_light_dark_matter_with_a_hadrophilic_scalar_mediator.pdf.download",
-    "knowledge_base/scalar-higgs_portal_theory_ref/do_b_meson_decays_exclude_a_light_higgs.pdf.md",
-    "knowledge_base/scalar-higgs_portal_theory_ref/limits_on_a_light_higgs_boson.pdf.md",
-    "knowledge_base/img/EXO-21-008_auxfig1.jpeg",
-    "knowledge_base/img/EXO-21-008_tbl2.jpeg",
-    "knowledge_base/img/EXO-21-008_tbl1.jpeg",
-    "knowledge_base/img/EXO-21-008_fig9.jpeg",
-    "knowledge_base/img/EXO-21-008_fig8.jpeg",
-    "knowledge_base/scratch.md",
-    "knowledge_base/advancement_notes.md",
-    "knowledge_base/codex-b_expression_of_interest.md",
-    "EXO-21-008_tbl1.jpeg",
-    "EXO-21-008_fig9.jpeg",
-    "EXO-21-008_tbl2.jpeg",
-    "1E2681FF-5FEF-4166-A34E-F3AF764DD55A.jpeg",
-    "EXO-21-009_fig9.jpeg",
-    "knowledge_base/EXO-20-015_notes 2.md",
-    "knowledge_base/EXO-20-015_notes 1.md",
-    "knowledge_base/img/EXO-21-008_fig.jpeg.md",
-    "knowledge_base/img/EXO-21-008_fig1.md",
-    "knowledge_base/EXO-21-008_notes.md",
-    "knowledge_base/my_research.md",
-    "knowledge_base/hepmc2.md",
-    "Collider_physics/HW_6/HW_6.md",
-    "knowledge_base/MadGraph.md",
-    "knowledge_base/Adding_ssh_key_for_secure_access_to_gitlab.md",
-    "knowledge_base/Cplusplus_cutflow_code.md",
-    "knowledge_base/mamba.md",
-    "B-parking/Fri_Apr_28_2023.md",
-    "B-parking/Mon_Apr_17_2023.md"
+    "knowledge_base/voms_setup.md"
   ]
 }
