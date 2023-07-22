@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B-parking/dt_cutbased_ID_investigation/dt_cutbased_ID_investigation.md",
+                "file": "knowledge_base/scalar-higgs_portal.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "7a8231a30d0cdf0d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "knowledge_base/scalar-higgs_portal_theory_ref/light_inflaton_hunters_guide.pdf"
               }
             }
           }
@@ -93,7 +103,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "B-parking/dt_cutbased_ID_investigation/dt_cutbased_ID_investigation.md",
+            "file": "knowledge_base/scalar-higgs_portal.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +120,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "B-parking/dt_cutbased_ID_investigation/dt_cutbased_ID_investigation.md",
+            "file": "knowledge_base/scalar-higgs_portal.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +132,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "B-parking/dt_cutbased_ID_investigation/dt_cutbased_ID_investigation.md"
+            "file": "knowledge_base/scalar-higgs_portal.md"
           }
         }
       }
@@ -142,10 +152,22 @@
   },
   "active": "c26a9b1f3841a625",
   "lastOpenFiles": [
+    "knowledge_base/scalar-higgs_portal_theory_ref/light_inflaton_hunters_guide.pdf",
+    "knowledge_base/scalar-higgs_portal.md",
+    "knowledge_base/Concepts of Elementary Particle Physics.md",
+    "knowledge_base/codex-b_expression_of_interest.md",
+    "knowledge_base/img/Pasted image 20230722092633.png",
+    "knowledge_base/scalar-higgs_portal_theory_ref/the_decay_of_a_light_higgs_boson.pdf",
+    "B-parking/dt_cutbased_ID_investigation/dt_cutbased_ID_investigation.md",
+    "B-parking/img/cat_eta.png",
+    "B-parking/img/Pasted image 20230721101836.png",
+    "B-parking/img/Pasted image 20230721101709.png",
+    "B-parking/img/Pasted image 20230721101305.png",
+    "B-parking/img/Pasted image 20230721102131.png",
+    "B-parking/img/Pasted image 20230721101403.png",
     "B-parking/img/IMG_0890.png",
     "B-parking/img/IMG_0889.png",
     "B-parking/img/IMG_0888.png",
-    "B-parking/img/IMG_0887.png",
     "knowledge_base/Neuro Hackathon.md",
     "FPGA_deployment/bitwise_investigation/bitwise_investigation.md",
     "knowledge_base/Correlator4.md",
@@ -173,23 +195,10 @@
     "B-ParkingLLPs/analysis/include/CommandLineInput.h.md",
     "B-ParkingLLPs/analysis/app/CommandLineInput.C.md",
     "B-ParkingLLPs/analysis/include/analyzer_tree.h.md",
-    "B-ParkingLLPs/analysis/include/analyzer.h.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "B-ParkingLLPs/limit_plots_gen/Pickles/README.md",
     "B-ParkingLLPs/analysis/include/analyzer_config.h",
     "B-ParkingLLPs/analysis/include/analyzer_base.h",
-    "B-ParkingLLPs/analysis/include/analyzer_objects.h",
-    "B-ParkingLLPs/analysis/include/analyzer.h",
-    "B-ParkingLLPs/analysis/include/analyzer_histograms.h",
-    "B-ParkingLLPs/limit_plots_gen/README.md",
-    "B-ParkingLLPs/README.md",
-    "B-parking/dt_cutbased_ID_investigation/summary_plot.png",
-    "B-parking/dt_cutbased_ID_investigation/background/dtRechitClusterSize_test_postdtID.jpeg",
-    "B-parking/dt_cutbased_ID_investigation/background/dtRechitClusterSize_OOT_postdtID.jpeg",
-    "B-parking/dt_cutbased_ID_investigation/background/dtRechitClusterSize_SR_postdtID.jpeg",
-    "B-parking/dt_cutbased_ID_investigation/background/dtRechitClusterSize_test_predtID.jpeg",
-    "B-parking/dt_cutbased_ID_investigation/background/dtRechitClusterSize_OOT_predtID.jpeg",
-    "B-parking/dt_cutbased_ID_investigation/background/dtRechitClusterSize_SR_predtID.jpeg"
+    "B-ParkingLLPs/analysis/include/analyzer_objects.h"
   ]
 }

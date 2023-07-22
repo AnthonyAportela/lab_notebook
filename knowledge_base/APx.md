@@ -31,7 +31,7 @@ Otherwise, cloning this repo will ask you to put in your password a million time
 
 To setup
 ```bash
-git clone -b APxFWSv2 --single-branch --recurse-submodules ssh://git@gitlab.cern.ch:7999/cms-cactus/phase2/firmware/correlator-layer2.git
+git clone -b JetID_APxV2 --single-branch --recurse-submodules ssh://git@gitlab.cern.ch:7999/cms-cactus/phase2/firmware/correlator-layer2.git
 ```
 NOTE: if the tutorial fails at this step, it's probably something wrong with the git authentication prerequisite step.
 
@@ -39,12 +39,12 @@ Then go into the cloned directory and get ready to build:
 ```bash
 cd correlator-layer2
 mkdir build
-cd met/apx
+cd JetID/apx
 ```
 
 Then build:
 ```bash
-make
+make -j16
 ```
 NOTE: if the tutorial fails at this step, it's probably because we didn't source the `setup_vitis_20222.sh` script. If it still doesn't work, maybe there's an environment mismatch.
 
