@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"type":"text","text":"## Run vanilla analyzer ✅","id":"e5365309d0310f18","x":-700,"y":-380,"width":250,"height":60,"color":"6"},
+		{"type":"text","text":"## Run vanilla analyzer on condor ✅","id":"c0d43ee975532960","x":-640,"y":-240,"width":250,"height":60,"color":"6"},
+		{"type":"text","text":"## Edit analyzer to save hits that are clustered","id":"602e7cc82653d2df","x":-575,"y":-120,"width":250,"height":60,"color":"6"},
+		{"type":"text","text":"## run new analyzer","id":"149a68622bedfe5c","x":-700,"y":20,"width":250,"height":60,"color":"6"},
+		{"type":"text","text":"## run new analyzer on condor","id":"f0db7f3a55c3128c","x":-640,"y":160,"width":250,"height":60,"color":"6"},
+		{"type":"text","text":"## acquire the dataset with cluster hit info","id":"23dd6814651e32dd","x":-180,"y":-380,"width":250,"height":60,"color":"6"},
+		{"type":"text","text":"## transform into graph data structure","id":"1a1875e348e9fef5","x":-180,"y":-240,"width":250,"height":60,"color":"6"},
+		{"type":"text","text":"## create gnn architecture","id":"18bdf266adb7674c","x":-180,"y":-90,"width":250,"height":60,"color":"6"},
+		{"type":"text","text":"## train of graph data structure","id":"379aed8f1910fa54","x":-180,"y":50,"width":250,"height":60,"color":"6"},
+		{"type":"text","text":"# **GOAL**: Discriminate LLPs","id":"91a445bcaf541ce9","x":280,"y":-120,"width":250,"height":90,"color":"1"}
+	],
+	"edges":[
+		{"id":"214302fac4d536b0","fromNode":"c0d43ee975532960","fromSide":"bottom","toNode":"602e7cc82653d2df","toSide":"top"},
+		{"id":"16fa8964667d8a8a","fromNode":"602e7cc82653d2df","fromSide":"bottom","toNode":"149a68622bedfe5c","toSide":"top"},
+		{"id":"36822112c9adc164","fromNode":"149a68622bedfe5c","fromSide":"bottom","toNode":"f0db7f3a55c3128c","toSide":"top"},
+		{"id":"69e222ca8d2a86da","fromNode":"e5365309d0310f18","fromSide":"bottom","toNode":"c0d43ee975532960","toSide":"top"},
+		{"id":"82524baf421da971","fromNode":"f0db7f3a55c3128c","fromSide":"right","toNode":"23dd6814651e32dd","toSide":"left"},
+		{"id":"b6d608d4926d5123","fromNode":"23dd6814651e32dd","fromSide":"bottom","toNode":"1a1875e348e9fef5","toSide":"top"},
+		{"id":"75bed796f740da57","fromNode":"1a1875e348e9fef5","fromSide":"bottom","toNode":"18bdf266adb7674c","toSide":"top"},
+		{"id":"486476d5bd56c831","fromNode":"18bdf266adb7674c","fromSide":"bottom","toNode":"379aed8f1910fa54","toSide":"top"},
+		{"id":"1bbe84e8eda89a0e","fromNode":"379aed8f1910fa54","fromSide":"right","toNode":"91a445bcaf541ce9","toSide":"left"}
+	]
+}

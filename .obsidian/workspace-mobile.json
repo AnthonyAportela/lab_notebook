@@ -4,28 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "15dc9104766fc8b6",
+        "id": "ec1172d9b9b796d7",
         "type": "tabs",
         "children": [
           {
-            "id": "c26a9b1f3841a625",
+            "id": "7276b0c14ac35963",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge_base/scalar-higgs_portal.md",
+                "file": "B-parking/Mon_Apr_10_2023.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "7a8231a30d0cdf0d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "knowledge_base/scalar-higgs_portal_theory_ref/light_inflaton_hunters_guide.pdf"
               }
             }
           }
@@ -103,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "knowledge_base/scalar-higgs_portal.md",
+            "file": "B-parking/Mon_Apr_10_2023.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -120,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "knowledge_base/scalar-higgs_portal.md",
+            "file": "B-parking/Mon_Apr_10_2023.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -132,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "knowledge_base/scalar-higgs_portal.md"
+            "file": "B-parking/Mon_Apr_10_2023.md"
           }
         }
       }
@@ -150,15 +140,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c26a9b1f3841a625",
+  "active": "732762eab838aff3",
   "lastOpenFiles": [
+    "B-parking/dt_cutbased_ID_investigation/dt_cutbased_ID_investigation.md",
+    "B-parking/Untitled.canvas",
+    "bparking_gnn/roadmap.canvas",
     "knowledge_base/scalar-higgs_portal_theory_ref/light_inflaton_hunters_guide.pdf",
     "knowledge_base/scalar-higgs_portal.md",
     "knowledge_base/Concepts of Elementary Particle Physics.md",
     "knowledge_base/codex-b_expression_of_interest.md",
     "knowledge_base/img/Pasted image 20230722092633.png",
     "knowledge_base/scalar-higgs_portal_theory_ref/the_decay_of_a_light_higgs_boson.pdf",
-    "B-parking/dt_cutbased_ID_investigation/dt_cutbased_ID_investigation.md",
     "B-parking/img/cat_eta.png",
     "B-parking/img/Pasted image 20230721101836.png",
     "B-parking/img/Pasted image 20230721101709.png",

@@ -8,6 +8,7 @@ Some prerequisites:
 To set up vivado on [corr4](/knowledge_base/Correlator4.md), you need to source the following:
 ```sh
 source /home/therwig/setup_vitis_20222.sh
+#source /data/therwig/Xilinx/Vivado/2019.2/settings64.sh
 ```
 
 I personally copied the file to my directory in case it changes in the future so that it still works with this version of the git.
