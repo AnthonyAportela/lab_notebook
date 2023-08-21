@@ -118,3 +118,15 @@ K_{s}\Delta_{\pi}(s)
 $$
 
 
+$$
+w(t,\tau_{0},\tau_{1})= \frac{\frac{1}{\tau_{1}} \exp\left( -\frac{t}{\tau_{1}} \right)}{\frac{1}{\tau_{0}} \exp\left( -\frac{t}{\tau_{0}} \right)}
+$$
+
+```C
+double w(double t, double tau0, double tau1) {
+	double numerator = (1.0 / tau1) * exp(-t / tau1);
+	double denominator = (1.0 / tau0) * exp(-t / tau0);
+	return numerator / denominator; 
+}
+```
+
